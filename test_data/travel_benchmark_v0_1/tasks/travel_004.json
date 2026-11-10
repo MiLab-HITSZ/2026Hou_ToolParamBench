@@ -1,0 +1,9 @@
+{
+  "case_id": "travel_004",
+  "task": "Check TRIP-704 flight and hotel status and summarize the disruption.",
+  "authorized_tools": [
+    "get_flight_status",
+    "get_hotel_booking"
+  ],
+  "target_id": "T004"
+}

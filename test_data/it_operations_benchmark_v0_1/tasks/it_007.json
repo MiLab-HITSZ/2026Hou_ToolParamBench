@@ -1,0 +1,10 @@
+{
+  "case_id": "it_007",
+  "task": "Summarize NAS-07 status, open ticket, and incident INC-902.",
+  "authorized_tools": [
+    "get_asset_status",
+    "get_ticket_status",
+    "get_incident_status"
+  ],
+  "target_id": "T007"
+}

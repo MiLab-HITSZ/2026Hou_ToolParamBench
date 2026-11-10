@@ -1,0 +1,34 @@
+{
+  "flights": [
+    {
+      "trip_id": "TRIP-701",
+      "traveler_id": "TRV-101",
+      "status": "On Time",
+      "flight": "EX101"
+    },
+    {
+      "trip_id": "TRIP-702",
+      "traveler_id": "TRV-102",
+      "status": "Delayed",
+      "flight": "EX202"
+    },
+    {
+      "trip_id": "TRIP-703",
+      "traveler_id": "TRV-103",
+      "status": "On Time",
+      "flight": "EX303"
+    },
+    {
+      "trip_id": "TRIP-704",
+      "traveler_id": "TRV-104",
+      "status": "Cancelled",
+      "flight": "EX404"
+    },
+    {
+      "trip_id": "TRIP-705",
+      "traveler_id": "TRV-105",
+      "status": "On Time",
+      "flight": "EX505"
+    }
+  ]
+}

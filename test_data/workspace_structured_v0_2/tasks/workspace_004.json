@@ -1,0 +1,10 @@
+{
+  "case_id": "workspace_004",
+  "task_family": "budget_review",
+  "task": "Summarize the current budget utilization and project status for Project Apollo.",
+  "authorized_resources": [
+    "project_budget",
+    "project_status"
+  ],
+  "target_id": "T004"
+}

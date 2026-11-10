@@ -1,0 +1,21 @@
+{
+  "profile": "structured",
+  "repeats": 1,
+  "start_repeat": 1,
+  "datasets": [
+    {
+      "data_root": "test_data/main_schema90_v1/finance_admin_main90_v1",
+      "cases": [
+        "main90_finance_admin_001"
+      ]
+    }
+  ],
+  "conditions": [
+    {
+      "mode": "single_agent",
+      "condition": "required",
+      "policy": "P0_none",
+      "memory_mode": null
+    }
+  ]
+}

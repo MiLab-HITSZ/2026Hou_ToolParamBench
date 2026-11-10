@@ -1,0 +1,29 @@
+{
+  "maintenance": [
+    {
+      "asset_id": "SUB-101",
+      "status": "Scheduled",
+      "work": "Cooling inspection"
+    },
+    {
+      "asset_id": "SUB-102",
+      "status": "Scheduled",
+      "work": "Transformer inspection"
+    },
+    {
+      "asset_id": "SUB-103",
+      "status": "Scheduled",
+      "work": "Relay test"
+    },
+    {
+      "asset_id": "SUB-104",
+      "status": "In Progress",
+      "work": "Bus maintenance"
+    },
+    {
+      "asset_id": "SUB-105",
+      "status": "Scheduled",
+      "work": "Capacitor bank inspection"
+    }
+  ]
+}

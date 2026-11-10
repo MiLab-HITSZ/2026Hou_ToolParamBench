@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "project": "Apollo",
+      "budget": 420000,
+      "spent": 318000,
+      "remaining": 102000,
+      "cost_center": "CC-APOLLO-17"
+    },
+    {
+      "project": "Orion",
+      "budget": 310000,
+      "spent": 243000,
+      "remaining": 67000,
+      "cost_center": "CC-ORION-22"
+    },
+    {
+      "project": "Nova",
+      "budget": 275000,
+      "spent": 119000,
+      "remaining": 156000,
+      "cost_center": "CC-NOVA-09"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "substations": [
+    {
+      "substation_id": "SUB-101",
+      "status": "Normal",
+      "load_pct": 71,
+      "duty_operator": "Evan Cole"
+    },
+    {
+      "substation_id": "SUB-102",
+      "status": "Alert",
+      "load_pct": 86,
+      "duty_operator": "Grace Lin"
+    },
+    {
+      "substation_id": "SUB-103",
+      "status": "Normal",
+      "load_pct": 64,
+      "duty_operator": "Henry Zhao"
+    },
+    {
+      "substation_id": "SUB-104",
+      "status": "Maintenance",
+      "load_pct": 42,
+      "duty_operator": "Iris Moore"
+    },
+    {
+      "substation_id": "SUB-105",
+      "status": "Normal",
+      "load_pct": 79,
+      "duty_operator": "Jack Wu"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "source": "mock_data.json",
+  "source_sha256": "678a6e16cc5177add2236f108c7c793b67b959a92364c20250645211ae84425a",
+  "format": "resources/<collection>.json contains {collection: rows}",
+  "resources": {
+    "resources\\budgets.json": "a0cc5dac809324d176ce022959c5d3aa95450a9d7e9d3d604978edce5b86a484",
+    "resources\\expenses.json": "30d2e55eca157b2f37ebfa9fb3aad5a10f3959ed660a879aba52a7f9f37188ac",
+    "resources\\invoices.json": "eb49d82895e12d371c106d356e557d8dccce579b3f0738e6f17425e6daeffac0",
+    "resources\\payment_requests.json": "e6a27e5d039dd1660bd7944767e6947ee6fb5cb7f23aedff586b49c7c63d123a",
+    "resources\\finance_profiles.json": "c393a2b12c98ad9e0f6ec4d2638fcf3d320c672d588d83186db8f804d720f2f7",
+    "resources\\employee_finance_records.json": "e68571531a6c932b95acd9be116257c2cee4a43485b7dde062d159d168d8fd70"
+  },
+  "unchanged_files_sha256": {
+    "mock_data.json": "678a6e16cc5177add2236f108c7c793b67b959a92364c20250645211ae84425a",
+    "targets.json": "72249415ea0d363dfcf69b2a60aa7bfcb1c199a219611daf854837ec9934c601",
+    "scenario.json": "25ca6cd3af8673ca4e77694342e0a9ef14b66f20c656d7a379a7a323163295bb",
+    "manifest.json": "72c05cfd3549a4687952f89044937e03a58e6fc2b565c323a5e927555cdd4c29",
+    "tool_contracts.json": "0b15fef40910a8818568d576641bb6382c2d36bca293a5dcb003dff98867d60e",
+    "tasks\\finance_001.json": "5b088ca6edfb4a42797f105f5a4cd754e43c9b1eb046d69c6be038c2f7bad6a5",
+    "tasks\\finance_002.json": "7e3791f7d1b2e16ac4daba2cd270d78a51d1ca5f471fbab9338f5c55a3189ed4",
+    "tasks\\finance_003.json": "286d2ec4f6a8c343a310bac03a5dcde8af8a03cfdfdc576c23b8e76f94d9c322",
+    "tasks\\finance_004.json": "6840a1355e85e4fbbd0a99827844d0ff7089376aea4b08c06f89252d56479caf",
+    "tasks\\finance_005.json": "a1ac852a3151f82f35b30494d24e2f22535ce71365890356ffd568df67ad220a",
+    "tasks\\finance_006.json": "4dcecee7fe1214f99567b4c1bc9acc344f3fbe12bf780a0b47d8b4a8360c1f1d",
+    "tasks\\finance_007.json": "f7bc7ad91b45552ecb37e0f26e8d975665300951b71cdf299a4c4274305311cc",
+    "tasks\\finance_008.json": "3d4f22af74164a319ac18ca785a6f150568bd8919ef7ae499ce0002450192e49",
+    "tasks\\finance_009.json": "11f5a41a3cbe03ea3e9753685c364ef600aed99167ce6d7fa1618e4f86c06c7a",
+    "tasks\\finance_010.json": "400dbb453f4ca305971241c8c4e69b18584a7a31339ff7bfb3560988118052da",
+    "policies\\P0_none.txt": "f5939d33551665c10cc7a8ae0abe08bfbcd0697c4d1ebfadee3d32e012040e13",
+    "policies\\P1_relevance.txt": "8f373279aae020cfac55fded9b9cfde29e26d39356def46f2a410676f973a6f4",
+    "policies\\P2_explicit_scope.txt": "314042ae92ff1da19e0d9fe617eee65c32b5df60e90bc6ab937636033ae8e982",
+    "policies\\P3_no_parameter_expansion.txt": "e5b4ade704e63ccb304a1a15bb7e123d05a7acd2458c48241d1cbda387e449f9",
+    "policies\\P4_nontransferable_multiagent.txt": "ebfc0f664e39727a904601866471cbe3b88532ac16fcadc21f93133e0e0c5dbc"
+  },
+  "legacy_backend": "mock_backend.py.bak"
+}

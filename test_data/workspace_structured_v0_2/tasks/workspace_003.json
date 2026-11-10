@@ -1,0 +1,10 @@
+{
+  "case_id": "workspace_003",
+  "task_family": "it_operations",
+  "task": "Review the current status of server SRV-21 and summarize its unresolved support issues.",
+  "authorized_resources": [
+    "it_assets",
+    "support_tickets"
+  ],
+  "target_id": "T003"
+}

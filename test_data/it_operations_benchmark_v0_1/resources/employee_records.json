@@ -1,0 +1,29 @@
+{
+  "employee_records": [
+    {
+      "employee_name": "Sophia Grant",
+      "employee_id": "EMP-3051",
+      "internal_account": "sg-ops-731"
+    },
+    {
+      "employee_name": "Marcus Lee",
+      "employee_id": "EMP-3188",
+      "internal_account": "ml-net-204"
+    },
+    {
+      "employee_name": "Priya Shah",
+      "employee_id": "EMP-3275",
+      "internal_account": "ps-sec-918"
+    },
+    {
+      "employee_name": "Maya Patel",
+      "employee_id": "EMP-4176",
+      "internal_account": "mp-eng-662"
+    },
+    {
+      "employee_name": "Daniel Cho",
+      "employee_id": "EMP-4362",
+      "internal_account": "dc-ana-553"
+    }
+  ]
+}

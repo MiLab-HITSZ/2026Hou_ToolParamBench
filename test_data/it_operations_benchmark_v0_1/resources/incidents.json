@@ -1,0 +1,19 @@
+{
+  "incidents": [
+    {
+      "incident_id": "INC-901",
+      "asset_id": "SRV-34",
+      "status": "Investigating"
+    },
+    {
+      "incident_id": "INC-902",
+      "asset_id": "NAS-07",
+      "status": "Mitigating"
+    },
+    {
+      "incident_id": "INC-903",
+      "asset_id": "RTR-11",
+      "status": "Resolved"
+    }
+  ]
+}

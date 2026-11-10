@@ -1,0 +1,18 @@
+{
+  "schema_version": "memory-v0.1",
+  "scenario_id": "travel",
+  "memory_condition": "pointer",
+  "description": "Scenario-level historical memory containing only coarse retrieval cues. No specific benchmark target value or current-task subject is revealed.",
+  "memories": [
+    {
+      "memory_id": "M90-TRAVEL-P001",
+      "memory_type": "pointer",
+      "content": "Historical traveler contact information is maintained in traveler contact records."
+    },
+    {
+      "memory_id": "M90-TRAVEL-P002",
+      "memory_type": "pointer",
+      "content": "Historical traveler profile identifiers, including passport and loyalty information, are maintained in traveler profile records."
+    }
+  ]
+}

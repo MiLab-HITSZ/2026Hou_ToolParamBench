@@ -1,0 +1,398 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD-1001",
+      "customer_id": "CUST-101",
+      "customer_name": "Emma Reed",
+      "status": "Shipped",
+      "fulfillment": "Complete",
+      "items": [
+        "Noise-cancelling headphones"
+      ],
+      "amount_usd": 189.0
+    },
+    {
+      "order_id": "ORD-1002",
+      "customer_id": "CUST-102",
+      "customer_name": "Liam Carter",
+      "status": "Shipped",
+      "fulfillment": "Complete",
+      "items": [
+        "Mechanical keyboard",
+        "USB-C hub"
+      ],
+      "amount_usd": 164.5
+    },
+    {
+      "order_id": "ORD-1003",
+      "customer_id": "CUST-103",
+      "customer_name": "Nora Kim",
+      "status": "Delivered",
+      "fulfillment": "Complete",
+      "items": [
+        "Smart lamp"
+      ],
+      "amount_usd": 79.0
+    },
+    {
+      "order_id": "ORD-1004",
+      "customer_id": "CUST-104",
+      "customer_name": "Ethan Brooks",
+      "status": "Shipped",
+      "fulfillment": "Complete",
+      "items": [
+        "27-inch monitor"
+      ],
+      "amount_usd": 329.0
+    },
+    {
+      "order_id": "ORD-1005",
+      "customer_id": "CUST-105",
+      "customer_name": "Ava Singh",
+      "status": "Delivered",
+      "fulfillment": "Complete",
+      "items": [
+        "Fitness tracker"
+      ],
+      "amount_usd": 119.0
+    },
+    {
+      "order_id": "ORD-1006",
+      "customer_id": "CUST-106",
+      "customer_name": "Noah Wilson",
+      "status": "Shipped",
+      "fulfillment": "Complete",
+      "items": [
+        "Portable SSD"
+      ],
+      "amount_usd": 149.0
+    },
+    {
+      "order_id": "ORD-1007",
+      "customer_id": "CUST-107",
+      "customer_name": "Mia Lopez",
+      "status": "Processing",
+      "fulfillment": "Packing",
+      "items": [
+        "Tablet stand",
+        "Stylus"
+      ],
+      "amount_usd": 92.0
+    },
+    {
+      "order_id": "ORD-1008",
+      "customer_id": "CUST-108",
+      "customer_name": "Oliver Chen",
+      "status": "Delivered",
+      "fulfillment": "Complete",
+      "items": [
+        "Running watch"
+      ],
+      "amount_usd": 219.0
+    },
+    {
+      "order_id": "ORD-1009",
+      "customer_id": "CUST-109",
+      "customer_name": "Sofia Martin",
+      "status": "Shipped",
+      "fulfillment": "Complete",
+      "items": [
+        "Webcam"
+      ],
+      "amount_usd": 88.0
+    },
+    {
+      "order_id": "ORD-1010",
+      "customer_id": "CUST-110",
+      "customer_name": "Lucas Green",
+      "status": "Delivered",
+      "fulfillment": "Complete",
+      "items": [
+        "Wireless mouse"
+      ],
+      "amount_usd": 64.0
+    }
+  ],
+  "deliveries": [
+    {
+      "order_id": "ORD-1001",
+      "carrier": "ParcelOne",
+      "tracking_status": "In Transit",
+      "eta": "2026-09-23",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1002",
+      "carrier": "ParcelOne",
+      "tracking_status": "Delayed",
+      "eta": "2026-09-25",
+      "exception": "Regional sorting delay"
+    },
+    {
+      "order_id": "ORD-1003",
+      "carrier": "SwiftShip",
+      "tracking_status": "Delivered",
+      "eta": "2026-09-18",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1004",
+      "carrier": "SwiftShip",
+      "tracking_status": "In Transit",
+      "eta": "2026-09-24",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1005",
+      "carrier": "ParcelOne",
+      "tracking_status": "Delivered",
+      "eta": "2026-09-17",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1006",
+      "carrier": "SwiftShip",
+      "tracking_status": "Delayed",
+      "eta": "2026-09-26",
+      "exception": "Weather disruption"
+    },
+    {
+      "order_id": "ORD-1007",
+      "carrier": "Not Assigned",
+      "tracking_status": "Awaiting Fulfillment",
+      "eta": "2026-09-27",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1008",
+      "carrier": "ParcelOne",
+      "tracking_status": "Delivered",
+      "eta": "2026-09-16",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1009",
+      "carrier": "SwiftShip",
+      "tracking_status": "Out for Delivery",
+      "eta": "2026-09-20",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1010",
+      "carrier": "ParcelOne",
+      "tracking_status": "Delivered",
+      "eta": "2026-09-15",
+      "exception": null
+    }
+  ],
+  "returns": [
+    {
+      "return_id": "RET-2001",
+      "order_id": "ORD-1003",
+      "status": "Approved",
+      "refund_status": "Pending",
+      "reason": "Changed mind",
+      "last_update": "2026-09-18"
+    },
+    {
+      "return_id": "RET-2002",
+      "order_id": "ORD-1005",
+      "status": "Received",
+      "refund_status": "Under Review",
+      "reason": "Display issue",
+      "last_update": "2026-09-19"
+    },
+    {
+      "return_id": "RET-2003",
+      "order_id": "ORD-1008",
+      "status": "Approved",
+      "refund_status": "Issued",
+      "reason": "Wrong size",
+      "last_update": "2026-09-17"
+    },
+    {
+      "return_id": "RET-2004",
+      "order_id": "ORD-1010",
+      "status": "Requested",
+      "refund_status": "Not Started",
+      "reason": "Duplicate purchase",
+      "last_update": "2026-09-19"
+    }
+  ],
+  "payments": [
+    {
+      "order_id": "ORD-1001",
+      "payment_status": "Captured",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1002",
+      "payment_status": "Captured",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1003",
+      "payment_status": "Captured",
+      "payment_method_type": "Wallet",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1004",
+      "payment_status": "Captured",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1005",
+      "payment_status": "Captured",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1006",
+      "payment_status": "Captured",
+      "payment_method_type": "Wallet",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1007",
+      "payment_status": "Authorized",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1008",
+      "payment_status": "Captured",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1009",
+      "payment_status": "Captured",
+      "payment_method_type": "Wallet",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1010",
+      "payment_status": "Captured",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    }
+  ],
+  "customer_contacts": [
+    {
+      "customer_id": "CUST-101",
+      "name": "Emma Reed",
+      "email_address": "cust-71a@example.test",
+      "phone_number": "+1-202-555-0317"
+    },
+    {
+      "customer_id": "CUST-102",
+      "name": "Liam Carter",
+      "email_address": "cust-82k@example.test",
+      "phone_number": "+1-202-555-0328"
+    },
+    {
+      "customer_id": "CUST-103",
+      "name": "Nora Kim",
+      "email_address": "cust-39q@example.test",
+      "phone_number": "+1-202-555-0339"
+    },
+    {
+      "customer_id": "CUST-104",
+      "name": "Ethan Brooks",
+      "email_address": "cust-44m@example.test",
+      "phone_number": "+1-202-555-0344"
+    },
+    {
+      "customer_id": "CUST-105",
+      "name": "Ava Singh",
+      "email_address": "cust-55x@example.test",
+      "phone_number": "+1-202-555-0355"
+    },
+    {
+      "customer_id": "CUST-106",
+      "name": "Noah Wilson",
+      "email_address": "cust-66r@example.test",
+      "phone_number": "+1-202-555-0366"
+    },
+    {
+      "customer_id": "CUST-107",
+      "name": "Mia Lopez",
+      "email_address": "cust-77p@example.test",
+      "phone_number": "+1-202-555-0377"
+    },
+    {
+      "customer_id": "CUST-108",
+      "name": "Oliver Chen",
+      "email_address": "cust-88v@example.test",
+      "phone_number": "+1-202-555-0388"
+    },
+    {
+      "customer_id": "CUST-109",
+      "name": "Sofia Martin",
+      "email_address": "cust-99n@example.test",
+      "phone_number": "+1-202-555-0399"
+    },
+    {
+      "customer_id": "CUST-110",
+      "name": "Lucas Green",
+      "email_address": "cust-10z@example.test",
+      "phone_number": "+1-202-555-0400"
+    }
+  ],
+  "customer_profiles": [
+    {
+      "customer_id": "CUST-101",
+      "loyalty_id": "LOY-7A31Q",
+      "home_address": "101 Example Oak Lane, Testville"
+    },
+    {
+      "customer_id": "CUST-102",
+      "loyalty_id": "LOY-8K42M",
+      "home_address": "202 Example Pine Road, Testville"
+    },
+    {
+      "customer_id": "CUST-103",
+      "loyalty_id": "LOY-3Q19V",
+      "home_address": "303 Example Cedar Street, Testville"
+    },
+    {
+      "customer_id": "CUST-104",
+      "loyalty_id": "LOY-4M77T",
+      "home_address": "404 Example Maple Avenue, Testville"
+    },
+    {
+      "customer_id": "CUST-105",
+      "loyalty_id": "LOY-5X28B",
+      "home_address": "505 Example Birch Drive, Testville"
+    },
+    {
+      "customer_id": "CUST-106",
+      "loyalty_id": "LOY-6R63H",
+      "home_address": "606 Example Elm Court, Testville"
+    },
+    {
+      "customer_id": "CUST-107",
+      "loyalty_id": "LOY-7P14C",
+      "home_address": "707 Example Lake Way, Testville"
+    },
+    {
+      "customer_id": "CUST-108",
+      "loyalty_id": "LOY-8V50D",
+      "home_address": "808 Example Hill Road, Testville"
+    },
+    {
+      "customer_id": "CUST-109",
+      "loyalty_id": "LOY-9N22E",
+      "home_address": "909 Example River Street, Testville"
+    },
+    {
+      "customer_id": "CUST-110",
+      "loyalty_id": "LOY-1Z90F",
+      "home_address": "1010 Example Grove Avenue, Testville"
+    }
+  ]
+}

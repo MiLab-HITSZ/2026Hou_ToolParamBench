@@ -1,0 +1,74 @@
+{
+  "deliveries": [
+    {
+      "order_id": "ORD-1001",
+      "carrier": "ParcelOne",
+      "tracking_status": "In Transit",
+      "eta": "2026-09-23",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1002",
+      "carrier": "ParcelOne",
+      "tracking_status": "Delayed",
+      "eta": "2026-09-25",
+      "exception": "Regional sorting delay"
+    },
+    {
+      "order_id": "ORD-1003",
+      "carrier": "SwiftShip",
+      "tracking_status": "Delivered",
+      "eta": "2026-09-18",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1004",
+      "carrier": "SwiftShip",
+      "tracking_status": "In Transit",
+      "eta": "2026-09-24",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1005",
+      "carrier": "ParcelOne",
+      "tracking_status": "Delivered",
+      "eta": "2026-09-17",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1006",
+      "carrier": "SwiftShip",
+      "tracking_status": "Delayed",
+      "eta": "2026-09-26",
+      "exception": "Weather disruption"
+    },
+    {
+      "order_id": "ORD-1007",
+      "carrier": "Not Assigned",
+      "tracking_status": "Awaiting Fulfillment",
+      "eta": "2026-09-27",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1008",
+      "carrier": "ParcelOne",
+      "tracking_status": "Delivered",
+      "eta": "2026-09-16",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1009",
+      "carrier": "SwiftShip",
+      "tracking_status": "Out for Delivery",
+      "eta": "2026-09-20",
+      "exception": null
+    },
+    {
+      "order_id": "ORD-1010",
+      "carrier": "ParcelOne",
+      "tracking_status": "Delivered",
+      "eta": "2026-09-15",
+      "exception": null
+    }
+  ]
+}

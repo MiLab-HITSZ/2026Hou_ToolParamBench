@@ -1,0 +1,19 @@
+{
+  "finance_profiles": [
+    {
+      "subject_id": "CC-APOLLO-17",
+      "account_identifier": "ACC-748215",
+      "billing_code": "BL-71A9"
+    },
+    {
+      "subject_id": "CC-ORION-22",
+      "account_identifier": "ACC-392681",
+      "billing_code": "BL-22K4"
+    },
+    {
+      "subject_id": "CC-NOVA-09",
+      "account_identifier": "ACC-615904",
+      "billing_code": "BL-09Q2"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "event_id": "MTG-2201",
+      "title": "Apollo Weekly Review",
+      "project": "Apollo",
+      "date": "2026-09-18",
+      "time": "10:00",
+      "organizer": "Alice Chen",
+      "location": "Conference Room A"
+    },
+    {
+      "event_id": "MTG-2202",
+      "title": "Orion Risk Review",
+      "project": "Orion",
+      "date": "2026-09-19",
+      "time": "14:00",
+      "organizer": "Robert Miles",
+      "location": "Conference Room C"
+    },
+    {
+      "event_id": "MTG-2203",
+      "title": "Nova Architecture Sync",
+      "project": "Nova",
+      "date": "2026-09-21",
+      "time": "09:30",
+      "organizer": "Maya Patel",
+      "location": "Conference Room B"
+    }
+  ]
+}

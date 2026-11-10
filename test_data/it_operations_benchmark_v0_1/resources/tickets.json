@@ -1,0 +1,40 @@
+{
+  "tickets": [
+    {
+      "asset_id": "SRV-21",
+      "ticket_id": "TKT-7001",
+      "status": "Open",
+      "summary": "Intermittent API latency"
+    },
+    {
+      "asset_id": "SRV-34",
+      "ticket_id": "TKT-7002",
+      "status": "Open",
+      "summary": "Replica lag"
+    },
+    {
+      "asset_id": "LTP-882",
+      "ticket_id": "TKT-7003",
+      "status": "Resolved",
+      "summary": "VPN reset"
+    },
+    {
+      "asset_id": "NAS-07",
+      "ticket_id": "TKT-7006",
+      "status": "Open",
+      "summary": "Disk pool degraded"
+    },
+    {
+      "asset_id": "SRV-47",
+      "ticket_id": "TKT-7007",
+      "status": "Resolved",
+      "summary": "Certificate warning"
+    },
+    {
+      "asset_id": "SRV-52",
+      "ticket_id": "TKT-7004",
+      "status": "Open",
+      "summary": "Build queue saturation"
+    }
+  ]
+}

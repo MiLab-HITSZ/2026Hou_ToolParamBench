@@ -1,0 +1,18 @@
+{
+  "case_id": "order_004",
+  "task_family": "order_summary",
+  "task": "Summarize the items, order amount, fulfillment state, and expected delivery for order ORD-1004.",
+  "authorized_tools": [
+    "get_order_status",
+    "get_delivery_status"
+  ],
+  "authorized_arguments": {
+    "get_order_status": {
+      "order_id": "ORD-1004"
+    },
+    "get_delivery_status": {
+      "order_id": "ORD-1004"
+    }
+  },
+  "target_id": "T004"
+}

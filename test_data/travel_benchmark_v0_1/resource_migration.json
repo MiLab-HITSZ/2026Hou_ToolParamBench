@@ -1,0 +1,36 @@
+{
+  "source": "mock_data.json",
+  "source_sha256": "ae5b34975590a914f88e4f158d224f05ec75f8ef53aa3cf484407b464cd5d89e",
+  "format": "resources/<collection>.json contains {collection: rows}",
+  "resources": {
+    "resources\\flights.json": "6754bd1d7dae55b49243163845777c72f74958ea808cc1b1cafee85757409c67",
+    "resources\\hotels.json": "cc324f1b81bdd7663248e485cd313bc53a564cc641081d36c719dcb64a0bdc1d",
+    "resources\\itineraries.json": "f1c342bd83d5d5f00db644214ff9932167508ef612b588484a44c442cb51058b",
+    "resources\\estimates.json": "c34fd5eb476f1d941e32cb47a499ddcd01e92a0fd46fbf79092efdfead70dbb8",
+    "resources\\traveler_contacts.json": "2fff40fd347acd1a23843402c8c94c84bcf1726c752e8c46850bc8eb1a0fdb7d",
+    "resources\\traveler_profiles.json": "0ed062ceb76958d96f8c4b6c003fd806114392f858dde9b461b4de464966399a"
+  },
+  "unchanged_files_sha256": {
+    "mock_data.json": "ae5b34975590a914f88e4f158d224f05ec75f8ef53aa3cf484407b464cd5d89e",
+    "targets.json": "76e7167028901909102468faece3c7292608e83469e169fc9948002f645fd2d8",
+    "scenario.json": "e513a837ac99971e926be7630019c85e3fbba7e46eaca484582d412a8d10c5f0",
+    "manifest.json": "de970745fbf4befdc8adb212b91fa9a837051fe759d9197c25f1f31f3a38289e",
+    "tool_contracts.json": "34fd3820536b7f5f0d2c1174f0d11e478cdd0e351225c5eb385b3f10914727e2",
+    "tasks\\travel_001.json": "c18e8f5bf7667adda9fca8dd8c0614fdf4e860b8b76d6725b83bf37edd55ba63",
+    "tasks\\travel_002.json": "f35decc5d28567d247a415c6c70aa714c01a02b3f0b846b7bf755fd90403bf02",
+    "tasks\\travel_003.json": "241b158a03963b684d546c5a9faceb27191bf8638753dae8862cdeec860cb469",
+    "tasks\\travel_004.json": "ff37a7ed668dd100efdd96dc80496a5297628196340c51d3a0e775e4a4380580",
+    "tasks\\travel_005.json": "12db2b8ef44f25dcd0133f6183f268b9c45a441bf031ba069a4a947ebbd800ba",
+    "tasks\\travel_006.json": "ef152178d8867928de69f57c40838841b5fa077a307b0c13490dac83595620d1",
+    "tasks\\travel_007.json": "c787957bc5f74426680e46f964e6649a531d6e4bc8c23c5e551e0b783f49fd9d",
+    "tasks\\travel_008.json": "ff605e85bd33f13bc82bf147ad8fe4032a5a184797893e1184dae013cf4f677c",
+    "tasks\\travel_009.json": "ed116b713eb480fa219f543ac03109bbe6d18ccb2e0d8978808ba4a0ce7ec600",
+    "tasks\\travel_010.json": "ba707b7958225cb990ff7d3b83188eb556bd7b0dc3569c1817a20ca791a410f5",
+    "policies\\P0_none.txt": "f5939d33551665c10cc7a8ae0abe08bfbcd0697c4d1ebfadee3d32e012040e13",
+    "policies\\P1_relevance.txt": "8f373279aae020cfac55fded9b9cfde29e26d39356def46f2a410676f973a6f4",
+    "policies\\P2_explicit_scope.txt": "314042ae92ff1da19e0d9fe617eee65c32b5df60e90bc6ab937636033ae8e982",
+    "policies\\P3_no_parameter_expansion.txt": "e5b4ade704e63ccb304a1a15bb7e123d05a7acd2458c48241d1cbda387e449f9",
+    "policies\\P4_nontransferable_multiagent.txt": "ebfc0f664e39727a904601866471cbe3b88532ac16fcadc21f93133e0e0c5dbc"
+  },
+  "legacy_backend": "mock_backend.py.bak"
+}

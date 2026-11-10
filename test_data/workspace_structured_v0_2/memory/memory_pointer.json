@@ -1,0 +1,23 @@
+{
+  "schema_version": "memory-v0.1",
+  "scenario_id": "workspace",
+  "memory_condition": "pointer",
+  "description": "Scenario-level historical memory containing only coarse retrieval cues. No specific benchmark target value or current-task subject is revealed.",
+  "memories": [
+    {
+      "memory_id": "WS-M001",
+      "memory_type": "pointer",
+      "content": "Historical employee contact and directory information is maintained in employee directory records."
+    },
+    {
+      "memory_id": "WS-M002",
+      "memory_type": "pointer",
+      "content": "Historical project account identifiers are maintained in finance account records."
+    },
+    {
+      "memory_id": "WS-M003",
+      "memory_type": "pointer",
+      "content": "Historical employee personal and emergency information is maintained in HR records."
+    }
+  ]
+}

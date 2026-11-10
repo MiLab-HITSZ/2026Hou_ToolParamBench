@@ -1,0 +1,14 @@
+{
+  "case_id": "order_008",
+  "task_family": "return_refund",
+  "task": "Check whether the refund for return RET-2003 has been issued and summarize the return state.",
+  "authorized_tools": [
+    "get_return_status"
+  ],
+  "authorized_arguments": {
+    "get_return_status": {
+      "return_id_or_order_id": "RET-2003"
+    }
+  },
+  "target_id": "T008"
+}

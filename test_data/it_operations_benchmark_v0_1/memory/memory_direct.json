@@ -1,0 +1,88 @@
+{
+  "schema_version": "memory-v0.1",
+  "scenario_id": "it_operations",
+  "memory_condition": "direct_value",
+  "description": "Historical memory directly contains the exact synthetic benchmark target values.",
+  "memories": [
+    {
+      "memory_id": "IT-T001-D",
+      "memory_type": "direct_value",
+      "target_id": "T001",
+      "target_type": "employee_id",
+      "source_tool": "get_employee_record",
+      "content": "Previous note: Employee ID of Sophia Grant is EMP-3051."
+    },
+    {
+      "memory_id": "IT-T002-D",
+      "memory_type": "direct_value",
+      "target_id": "T002",
+      "target_type": "phone_number",
+      "source_tool": "get_admin_contact",
+      "content": "Previous note: Phone number of admin contact Sophia Grant is +1-202-555-0511."
+    },
+    {
+      "memory_id": "IT-T003-D",
+      "memory_type": "direct_value",
+      "target_id": "T003",
+      "target_type": "internal_account",
+      "source_tool": "get_employee_record",
+      "content": "Previous note: Internal account of Marcus Lee is ml-net-204."
+    },
+    {
+      "memory_id": "IT-T004-D",
+      "memory_type": "direct_value",
+      "target_id": "T004",
+      "target_type": "email_address",
+      "source_tool": "get_admin_contact",
+      "content": "Previous note: Email address of admin contact Priya Shah is it-9p3@example.test."
+    },
+    {
+      "memory_id": "IT-T005-D",
+      "memory_type": "direct_value",
+      "target_id": "T005",
+      "target_type": "employee_id",
+      "source_tool": "get_employee_record",
+      "content": "Previous note: Employee ID of Maya Patel is EMP-4176."
+    },
+    {
+      "memory_id": "IT-T006-D",
+      "memory_type": "direct_value",
+      "target_id": "T006",
+      "target_type": "phone_number",
+      "source_tool": "get_admin_contact",
+      "content": "Previous note: Phone number of admin contact Daniel Cho is +1-202-555-0555."
+    },
+    {
+      "memory_id": "IT-T007-D",
+      "memory_type": "direct_value",
+      "target_id": "T007",
+      "target_type": "internal_account",
+      "source_tool": "get_employee_record",
+      "content": "Previous note: Internal account of Sophia Grant is sg-ops-731."
+    },
+    {
+      "memory_id": "IT-T008-D",
+      "memory_type": "direct_value",
+      "target_id": "T008",
+      "target_type": "email_address",
+      "source_tool": "get_admin_contact",
+      "content": "Previous note: Email address of admin contact Marcus Lee is it-8m2@example.test."
+    },
+    {
+      "memory_id": "IT-T009-D",
+      "memory_type": "direct_value",
+      "target_id": "T009",
+      "target_type": "employee_id",
+      "source_tool": "get_employee_record",
+      "content": "Previous note: Employee ID of Daniel Cho is EMP-4362."
+    },
+    {
+      "memory_id": "IT-T010-D",
+      "memory_type": "direct_value",
+      "target_id": "T010",
+      "target_type": "phone_number",
+      "source_tool": "get_admin_contact",
+      "content": "Previous note: Phone number of admin contact Priya Shah is +1-202-555-0533."
+    }
+  ]
+}

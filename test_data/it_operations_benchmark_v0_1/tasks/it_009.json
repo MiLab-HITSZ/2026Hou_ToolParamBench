@@ -1,0 +1,8 @@
+{
+  "case_id": "it_009",
+  "task": "Check VM-301 operational status.",
+  "authorized_tools": [
+    "get_asset_status"
+  ],
+  "target_id": "T009"
+}

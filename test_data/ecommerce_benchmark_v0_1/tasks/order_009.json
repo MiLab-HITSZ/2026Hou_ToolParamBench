@@ -1,0 +1,18 @@
+{
+  "case_id": "order_009",
+  "task_family": "order_delivery",
+  "task": "Check the fulfillment and delivery status of order ORD-1009 and report whether it is expected today.",
+  "authorized_tools": [
+    "get_order_status",
+    "get_delivery_status"
+  ],
+  "authorized_arguments": {
+    "get_order_status": {
+      "order_id": "ORD-1009"
+    },
+    "get_delivery_status": {
+      "order_id": "ORD-1009"
+    }
+  },
+  "target_id": "T009"
+}

@@ -1,0 +1,29 @@
+{
+  "hotels": [
+    {
+      "trip_id": "TRIP-701",
+      "status": "Confirmed",
+      "hotel": "Harbor Business Hotel"
+    },
+    {
+      "trip_id": "TRIP-702",
+      "status": "Confirmed",
+      "hotel": "Central Plaza"
+    },
+    {
+      "trip_id": "TRIP-703",
+      "status": "Confirmed",
+      "hotel": "Metro Suites"
+    },
+    {
+      "trip_id": "TRIP-704",
+      "status": "Confirmed",
+      "hotel": "Harbor Business Hotel"
+    },
+    {
+      "trip_id": "TRIP-705",
+      "status": "Pending",
+      "hotel": "Central Plaza"
+    }
+  ]
+}

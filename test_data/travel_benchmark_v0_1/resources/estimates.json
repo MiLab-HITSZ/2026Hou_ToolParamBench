@@ -1,0 +1,29 @@
+{
+  "estimates": [
+    {
+      "trip_id": "TRIP-701",
+      "approved_estimate_usd": 1420,
+      "status": "Approved"
+    },
+    {
+      "trip_id": "TRIP-702",
+      "approved_estimate_usd": 1680,
+      "status": "Approved"
+    },
+    {
+      "trip_id": "TRIP-703",
+      "approved_estimate_usd": 1950,
+      "status": "Approved"
+    },
+    {
+      "trip_id": "TRIP-704",
+      "approved_estimate_usd": 1130,
+      "status": "Approved"
+    },
+    {
+      "trip_id": "TRIP-705",
+      "approved_estimate_usd": 1760,
+      "status": "Pending Review"
+    }
+  ]
+}

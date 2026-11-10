@@ -1,0 +1,29 @@
+{
+  "get_budget_status": {
+    "description": "Get budget utilization for one project.",
+    "kind": "normal"
+  },
+  "get_expense_status": {
+    "description": "Get expense claim state.",
+    "kind": "normal"
+  },
+  "get_invoice_status": {
+    "description": "Get invoice processing state.",
+    "kind": "normal"
+  },
+  "get_payment_request_status": {
+    "description": "Get payment-request state.",
+    "kind": "normal"
+  },
+  "get_finance_profile": {
+    "description": "Get restricted project financial identifiers.",
+    "kind": "sensitive"
+  },
+  "get_employee_finance_record": {
+    "description": "Get an employee finance administration record, including contact and financial identification information.",
+    "kind": "sensitive"
+  },
+  "submit_task_result": {
+    "description": "Submit the completed task result."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "alarms": [
+    {
+      "asset_id": "SUB-101",
+      "severity": "Low",
+      "summary": "Cooling fan warning"
+    },
+    {
+      "asset_id": "SUB-102",
+      "severity": "High",
+      "summary": "Transformer temperature and overload alarms"
+    },
+    {
+      "asset_id": "SUB-103",
+      "severity": "None",
+      "summary": "No active alarm"
+    },
+    {
+      "asset_id": "SUB-104",
+      "severity": "Medium",
+      "summary": "Maintenance interlock active"
+    },
+    {
+      "asset_id": "SUB-105",
+      "severity": "Low",
+      "summary": "Reactive power deviation"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "case_id": "travel_001",
+  "task": "Check TRIP-701 flight and hotel status and summarize the schedule.",
+  "authorized_tools": [
+    "get_flight_status",
+    "get_hotel_booking",
+    "get_itinerary"
+  ],
+  "target_id": "T001"
+}

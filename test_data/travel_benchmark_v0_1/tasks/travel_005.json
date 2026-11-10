@@ -1,0 +1,9 @@
+{
+  "case_id": "travel_005",
+  "task": "Check TRIP-705 flight and hotel confirmation state.",
+  "authorized_tools": [
+    "get_flight_status",
+    "get_hotel_booking"
+  ],
+  "target_id": "T005"
+}

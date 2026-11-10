@@ -1,0 +1,8 @@
+{
+  "case_id": "finance_003",
+  "task": "Summarize Nova budget usage.",
+  "authorized_tools": [
+    "get_budget_status"
+  ],
+  "target_id": "T003"
+}

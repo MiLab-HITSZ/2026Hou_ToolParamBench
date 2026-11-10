@@ -1,0 +1,36 @@
+{
+  "source": "mock_data.json",
+  "source_sha256": "cd3a73da9d8cfd5dd7d548b6c5b7c80f6944fe3f05eee7d674fab5f74687089d",
+  "format": "resources/<collection>.json contains {collection: rows}",
+  "resources": {
+    "resources\\substations.json": "c3b6b18dd1cf6894963fac51c35da9decd4ab95563ace0b7e8e561070ccf2bd4",
+    "resources\\alarms.json": "bd94cb93e60d020fe3b15545713c623fd6c54d2398f67188499c1f22d9629364",
+    "resources\\maintenance.json": "2293d20c24073aeacaf5e6b2d3a5a9e561b481ad44f5b50c31ecd634ef71dd8c",
+    "resources\\contingencies.json": "60246d8fc53f04e90922542794c5dd6c2053db783ae1250084c9eb26864aa295",
+    "resources\\operator_contacts.json": "b3bb5aa6f0d88d13a6faadefde191d9f70cbe35318ca9ae6b93b4b1d5877506d",
+    "resources\\operator_profiles.json": "180a3caa03873a237a34818f8bd2032c5120dd2610b25d5e1de73f7740321083"
+  },
+  "unchanged_files_sha256": {
+    "mock_data.json": "cd3a73da9d8cfd5dd7d548b6c5b7c80f6944fe3f05eee7d674fab5f74687089d",
+    "targets.json": "ab79b3bc52ae028590e0f716dd9c3feac4f9a74efaf5c4c3707822e7ff645383",
+    "scenario.json": "98623a3b184cc78e03cce55395af8c45707f8dca424a3e04da53d761809b40e4",
+    "manifest.json": "f2138c6fde3c696fef50f519a8698d3563315a0023233622c42ca372f26cfdfe",
+    "tool_contracts.json": "1a16b72744d4a21b291218e72938b658cb15a9b6fb3279608e3c0d1dbd2cbf02",
+    "tasks\\grid_001.json": "6c0ed34813765c2c97cea8830adba49609313be561b2ea1c707d01335419c261",
+    "tasks\\grid_002.json": "4856934ea830a47cc56c2ee96f0fee6b07d9a83c31117ad693ce5b94a90aead2",
+    "tasks\\grid_003.json": "e88f13ac4c7b296f1065ca72521a322036a118b67e4c56b4063e3227ec1a3fda",
+    "tasks\\grid_004.json": "1c87055f7e53198a1940428e16fbf3f20394583141e9f56cf78dd8e5591c21e2",
+    "tasks\\grid_005.json": "13326107011b71df2f073d47fc85029f90a12f8675d2c210baebf87e3aca420b",
+    "tasks\\grid_006.json": "468b5e37efcbaa360642218750475db5e4313d1ffa4042b6ec18b54cc0b8df45",
+    "tasks\\grid_007.json": "a747caf29e1b05accb776468885fff9b9f9da974f983071a78fa69d73b3b119d",
+    "tasks\\grid_008.json": "7dd7a0df4c0c65fa15bf352d3f064183cb4804189ec252123d2c77e055751834",
+    "tasks\\grid_009.json": "46f33fa7bdd514c23ec4208e429d9e7a8e736feedb857bf6b42be5a37492d723",
+    "tasks\\grid_010.json": "7a82ecfa361d1d27c8f63ac6ff3d649c2db34fcb85ede52d7a00cb3956c26384",
+    "policies\\P0_none.txt": "f5939d33551665c10cc7a8ae0abe08bfbcd0697c4d1ebfadee3d32e012040e13",
+    "policies\\P1_relevance.txt": "8f373279aae020cfac55fded9b9cfde29e26d39356def46f2a410676f973a6f4",
+    "policies\\P2_explicit_scope.txt": "314042ae92ff1da19e0d9fe617eee65c32b5df60e90bc6ab937636033ae8e982",
+    "policies\\P3_no_parameter_expansion.txt": "e5b4ade704e63ccb304a1a15bb7e123d05a7acd2458c48241d1cbda387e449f9",
+    "policies\\P4_nontransferable_multiagent.txt": "ebfc0f664e39727a904601866471cbe3b88532ac16fcadc21f93133e0e0c5dbc"
+  },
+  "legacy_backend": "mock_backend.py.bak"
+}

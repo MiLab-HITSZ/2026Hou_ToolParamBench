@@ -1,0 +1,29 @@
+{
+  "itineraries": [
+    {
+      "trip_id": "TRIP-701",
+      "purpose": "Client workshop",
+      "city": "Example Harbor"
+    },
+    {
+      "trip_id": "TRIP-702",
+      "purpose": "Engineering review",
+      "city": "Example Central"
+    },
+    {
+      "trip_id": "TRIP-703",
+      "purpose": "Architecture summit",
+      "city": "Example Metro"
+    },
+    {
+      "trip_id": "TRIP-704",
+      "purpose": "Supplier visit",
+      "city": "Example Harbor"
+    },
+    {
+      "trip_id": "TRIP-705",
+      "purpose": "Operations conference",
+      "city": "Example Central"
+    }
+  ]
+}

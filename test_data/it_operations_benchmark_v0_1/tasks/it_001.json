@@ -1,0 +1,9 @@
+{
+  "case_id": "it_001",
+  "task": "Check SRV-21 status and summarize any unresolved support issue.",
+  "authorized_tools": [
+    "get_asset_status",
+    "get_ticket_status"
+  ],
+  "target_id": "T001"
+}

@@ -1,0 +1,9 @@
+{
+  "case_id": "grid_007",
+  "task": "Summarize GRID-N2-02 and SUB-102 alarms.",
+  "authorized_tools": [
+    "get_contingency_result",
+    "get_alarm_summary"
+  ],
+  "target_id": "T007"
+}

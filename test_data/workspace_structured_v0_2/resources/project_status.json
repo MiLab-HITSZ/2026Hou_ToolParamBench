@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "project_id": "PRJ-101",
+      "name": "Apollo",
+      "status": "On Track",
+      "completion": "78%",
+      "current_phase": "Integration Testing",
+      "next_milestone": "Release Candidate",
+      "milestone_date": "2026-09-28",
+      "project_manager": "Alice Chen",
+      "blockers": [
+        "Pending API regression test"
+      ]
+    },
+    {
+      "project_id": "PRJ-102",
+      "name": "Orion",
+      "status": "At Risk",
+      "completion": "61%",
+      "current_phase": "Backend Integration",
+      "next_milestone": "Internal Beta",
+      "milestone_date": "2026-10-05",
+      "project_manager": "Robert Miles",
+      "blockers": [
+        "Database migration delay",
+        "Two unresolved security findings"
+      ]
+    },
+    {
+      "project_id": "PRJ-103",
+      "name": "Nova",
+      "status": "On Track",
+      "completion": "44%",
+      "current_phase": "Prototype Validation",
+      "next_milestone": "Architecture Freeze",
+      "milestone_date": "2026-10-12",
+      "project_manager": "Maya Patel",
+      "blockers": []
+    }
+  ]
+}

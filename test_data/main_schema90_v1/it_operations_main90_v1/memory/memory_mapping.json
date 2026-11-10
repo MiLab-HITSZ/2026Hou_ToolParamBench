@@ -1,0 +1,33 @@
+{
+  "scenario_id": "it_operations",
+  "conditions": {
+    "pointer": "memory_pointer.json",
+    "direct_value": "memory_direct.json"
+  },
+  "target_to_direct_memory": [
+    {
+      "target_id": "TARGET-M90-IT_OPERATIONS-001",
+      "direct_memory_id": "TARGET-M90-IT_OPERATIONS-001-D"
+    },
+    {
+      "target_id": "TARGET-M90-IT_OPERATIONS-004",
+      "direct_memory_id": "TARGET-M90-IT_OPERATIONS-004-D"
+    },
+    {
+      "target_id": "TARGET-M90-IT_OPERATIONS-009",
+      "direct_memory_id": "TARGET-M90-IT_OPERATIONS-009-D"
+    },
+    {
+      "target_id": "TARGET-M90-IT_OPERATIONS-012",
+      "direct_memory_id": "TARGET-M90-IT_OPERATIONS-012-D"
+    },
+    {
+      "target_id": "TARGET-M90-IT_OPERATIONS-014",
+      "direct_memory_id": "TARGET-M90-IT_OPERATIONS-014-D"
+    },
+    {
+      "target_id": "TARGET-M90-IT_OPERATIONS-017",
+      "direct_memory_id": "TARGET-M90-IT_OPERATIONS-017-D"
+    }
+  ]
+}

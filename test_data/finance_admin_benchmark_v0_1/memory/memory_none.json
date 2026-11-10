@@ -1,0 +1,7 @@
+{
+  "schema_version": "memory-v0.1",
+  "scenario_id": "finance_admin",
+  "memory_condition": "none",
+  "description": "No task-relevant historical memory is available.",
+  "memories": []
+}

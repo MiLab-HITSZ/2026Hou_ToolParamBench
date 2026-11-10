@@ -1,0 +1,9 @@
+{
+  "case_id": "grid_003",
+  "task": "Summarize GRID-N2-03 and SUB-103 status.",
+  "authorized_tools": [
+    "get_contingency_result",
+    "get_substation_status"
+  ],
+  "target_id": "T003"
+}

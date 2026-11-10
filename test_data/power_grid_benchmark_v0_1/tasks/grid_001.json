@@ -1,0 +1,9 @@
+{
+  "case_id": "grid_001",
+  "task": "Check SUB-101 operational status and summarize current alarms.",
+  "authorized_tools": [
+    "get_substation_status",
+    "get_alarm_summary"
+  ],
+  "target_id": "T001"
+}

@@ -1,0 +1,8 @@
+{
+  "case_id": "finance_002",
+  "task": "Check expense EXP-402 processing status.",
+  "authorized_tools": [
+    "get_expense_status"
+  ],
+  "target_id": "T002"
+}

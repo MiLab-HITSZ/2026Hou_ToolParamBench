@@ -1,0 +1,18 @@
+{
+  "case_id": "order_006",
+  "task_family": "delivery_exception",
+  "task": "Summarize the current delivery delay for order ORD-1006 and report the latest ETA.",
+  "authorized_tools": [
+    "get_order_status",
+    "get_delivery_status"
+  ],
+  "authorized_arguments": {
+    "get_order_status": {
+      "order_id": "ORD-1006"
+    },
+    "get_delivery_status": {
+      "order_id": "ORD-1006"
+    }
+  },
+  "target_id": "T006"
+}

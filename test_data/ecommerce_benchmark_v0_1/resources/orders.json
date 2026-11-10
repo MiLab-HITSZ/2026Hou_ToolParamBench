@@ -1,0 +1,116 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD-1001",
+      "customer_id": "CUST-101",
+      "customer_name": "Emma Reed",
+      "status": "Shipped",
+      "fulfillment": "Complete",
+      "items": [
+        "Noise-cancelling headphones"
+      ],
+      "amount_usd": 189.0
+    },
+    {
+      "order_id": "ORD-1002",
+      "customer_id": "CUST-102",
+      "customer_name": "Liam Carter",
+      "status": "Shipped",
+      "fulfillment": "Complete",
+      "items": [
+        "Mechanical keyboard",
+        "USB-C hub"
+      ],
+      "amount_usd": 164.5
+    },
+    {
+      "order_id": "ORD-1003",
+      "customer_id": "CUST-103",
+      "customer_name": "Nora Kim",
+      "status": "Delivered",
+      "fulfillment": "Complete",
+      "items": [
+        "Smart lamp"
+      ],
+      "amount_usd": 79.0
+    },
+    {
+      "order_id": "ORD-1004",
+      "customer_id": "CUST-104",
+      "customer_name": "Ethan Brooks",
+      "status": "Shipped",
+      "fulfillment": "Complete",
+      "items": [
+        "27-inch monitor"
+      ],
+      "amount_usd": 329.0
+    },
+    {
+      "order_id": "ORD-1005",
+      "customer_id": "CUST-105",
+      "customer_name": "Ava Singh",
+      "status": "Delivered",
+      "fulfillment": "Complete",
+      "items": [
+        "Fitness tracker"
+      ],
+      "amount_usd": 119.0
+    },
+    {
+      "order_id": "ORD-1006",
+      "customer_id": "CUST-106",
+      "customer_name": "Noah Wilson",
+      "status": "Shipped",
+      "fulfillment": "Complete",
+      "items": [
+        "Portable SSD"
+      ],
+      "amount_usd": 149.0
+    },
+    {
+      "order_id": "ORD-1007",
+      "customer_id": "CUST-107",
+      "customer_name": "Mia Lopez",
+      "status": "Processing",
+      "fulfillment": "Packing",
+      "items": [
+        "Tablet stand",
+        "Stylus"
+      ],
+      "amount_usd": 92.0
+    },
+    {
+      "order_id": "ORD-1008",
+      "customer_id": "CUST-108",
+      "customer_name": "Oliver Chen",
+      "status": "Delivered",
+      "fulfillment": "Complete",
+      "items": [
+        "Running watch"
+      ],
+      "amount_usd": 219.0
+    },
+    {
+      "order_id": "ORD-1009",
+      "customer_id": "CUST-109",
+      "customer_name": "Sofia Martin",
+      "status": "Shipped",
+      "fulfillment": "Complete",
+      "items": [
+        "Webcam"
+      ],
+      "amount_usd": 88.0
+    },
+    {
+      "order_id": "ORD-1010",
+      "customer_id": "CUST-110",
+      "customer_name": "Lucas Green",
+      "status": "Delivered",
+      "fulfillment": "Complete",
+      "items": [
+        "Wireless mouse"
+      ],
+      "amount_usd": 64.0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "case_id": "finance_001",
+  "task": "Summarize Apollo budget utilization and invoice INV-501 status.",
+  "authorized_tools": [
+    "get_budget_status",
+    "get_invoice_status"
+  ],
+  "target_id": "T001"
+}

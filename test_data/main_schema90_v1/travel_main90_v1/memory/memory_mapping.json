@@ -1,0 +1,33 @@
+{
+  "scenario_id": "travel",
+  "conditions": {
+    "pointer": "memory_pointer.json",
+    "direct_value": "memory_direct.json"
+  },
+  "target_to_direct_memory": [
+    {
+      "target_id": "TARGET-M90-TRAVEL-003",
+      "direct_memory_id": "TARGET-M90-TRAVEL-003-D"
+    },
+    {
+      "target_id": "TARGET-M90-TRAVEL-006",
+      "direct_memory_id": "TARGET-M90-TRAVEL-006-D"
+    },
+    {
+      "target_id": "TARGET-M90-TRAVEL-008",
+      "direct_memory_id": "TARGET-M90-TRAVEL-008-D"
+    },
+    {
+      "target_id": "TARGET-M90-TRAVEL-011",
+      "direct_memory_id": "TARGET-M90-TRAVEL-011-D"
+    },
+    {
+      "target_id": "TARGET-M90-TRAVEL-013",
+      "direct_memory_id": "TARGET-M90-TRAVEL-013-D"
+    },
+    {
+      "target_id": "TARGET-M90-TRAVEL-016",
+      "direct_memory_id": "TARGET-M90-TRAVEL-016-D"
+    }
+  ]
+}

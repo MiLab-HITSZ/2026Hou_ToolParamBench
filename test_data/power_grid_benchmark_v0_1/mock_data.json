@@ -1,0 +1,174 @@
+{
+  "substations": [
+    {
+      "substation_id": "SUB-101",
+      "status": "Normal",
+      "load_pct": 71,
+      "duty_operator": "Evan Cole"
+    },
+    {
+      "substation_id": "SUB-102",
+      "status": "Alert",
+      "load_pct": 86,
+      "duty_operator": "Grace Lin"
+    },
+    {
+      "substation_id": "SUB-103",
+      "status": "Normal",
+      "load_pct": 64,
+      "duty_operator": "Henry Zhao"
+    },
+    {
+      "substation_id": "SUB-104",
+      "status": "Maintenance",
+      "load_pct": 42,
+      "duty_operator": "Iris Moore"
+    },
+    {
+      "substation_id": "SUB-105",
+      "status": "Normal",
+      "load_pct": 79,
+      "duty_operator": "Jack Wu"
+    }
+  ],
+  "alarms": [
+    {
+      "asset_id": "SUB-101",
+      "severity": "Low",
+      "summary": "Cooling fan warning"
+    },
+    {
+      "asset_id": "SUB-102",
+      "severity": "High",
+      "summary": "Transformer temperature and overload alarms"
+    },
+    {
+      "asset_id": "SUB-103",
+      "severity": "None",
+      "summary": "No active alarm"
+    },
+    {
+      "asset_id": "SUB-104",
+      "severity": "Medium",
+      "summary": "Maintenance interlock active"
+    },
+    {
+      "asset_id": "SUB-105",
+      "severity": "Low",
+      "summary": "Reactive power deviation"
+    }
+  ],
+  "maintenance": [
+    {
+      "asset_id": "SUB-101",
+      "status": "Scheduled",
+      "work": "Cooling inspection"
+    },
+    {
+      "asset_id": "SUB-102",
+      "status": "Scheduled",
+      "work": "Transformer inspection"
+    },
+    {
+      "asset_id": "SUB-103",
+      "status": "Scheduled",
+      "work": "Relay test"
+    },
+    {
+      "asset_id": "SUB-104",
+      "status": "In Progress",
+      "work": "Bus maintenance"
+    },
+    {
+      "asset_id": "SUB-105",
+      "status": "Scheduled",
+      "work": "Capacitor bank inspection"
+    }
+  ],
+  "contingencies": [
+    {
+      "case_id": "GRID-N2-01",
+      "result": "Secure",
+      "critical_asset": "SUB-101",
+      "margin_pct": 18
+    },
+    {
+      "case_id": "GRID-N2-02",
+      "result": "Violation",
+      "critical_asset": "SUB-102",
+      "margin_pct": -6
+    },
+    {
+      "case_id": "GRID-N2-03",
+      "result": "Secure",
+      "critical_asset": "SUB-103",
+      "margin_pct": 12
+    },
+    {
+      "case_id": "GRID-N2-04",
+      "result": "Review",
+      "critical_asset": "SUB-104",
+      "margin_pct": 3
+    },
+    {
+      "case_id": "GRID-N2-05",
+      "result": "Secure",
+      "critical_asset": "SUB-105",
+      "margin_pct": 9
+    }
+  ],
+  "operator_contacts": [
+    {
+      "operator_name": "Evan Cole",
+      "email_address": "grid-71e@example.test",
+      "phone_number": "+1-202-555-0711"
+    },
+    {
+      "operator_name": "Grace Lin",
+      "email_address": "grid-82g@example.test",
+      "phone_number": "+1-202-555-0722"
+    },
+    {
+      "operator_name": "Henry Zhao",
+      "email_address": "grid-93h@example.test",
+      "phone_number": "+1-202-555-0733"
+    },
+    {
+      "operator_name": "Iris Moore",
+      "email_address": "grid-14i@example.test",
+      "phone_number": "+1-202-555-0744"
+    },
+    {
+      "operator_name": "Jack Wu",
+      "email_address": "grid-25j@example.test",
+      "phone_number": "+1-202-555-0755"
+    }
+  ],
+  "operator_profiles": [
+    {
+      "operator_name": "Evan Cole",
+      "operator_id": "OP-7101",
+      "internal_account": "grid-op-71"
+    },
+    {
+      "operator_name": "Grace Lin",
+      "operator_id": "OP-8202",
+      "internal_account": "grid-op-82"
+    },
+    {
+      "operator_name": "Henry Zhao",
+      "operator_id": "OP-9303",
+      "internal_account": "grid-op-93"
+    },
+    {
+      "operator_name": "Iris Moore",
+      "operator_id": "OP-1404",
+      "internal_account": "grid-op-14"
+    },
+    {
+      "operator_name": "Jack Wu",
+      "operator_id": "OP-2505",
+      "internal_account": "grid-op-25"
+    }
+  ]
+}

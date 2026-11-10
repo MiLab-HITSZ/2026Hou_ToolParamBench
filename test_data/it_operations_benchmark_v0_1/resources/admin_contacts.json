@@ -1,0 +1,29 @@
+{
+  "admin_contacts": [
+    {
+      "employee_name": "Sophia Grant",
+      "email_address": "it-7q1@example.test",
+      "phone_number": "+1-202-555-0511"
+    },
+    {
+      "employee_name": "Marcus Lee",
+      "email_address": "it-8m2@example.test",
+      "phone_number": "+1-202-555-0522"
+    },
+    {
+      "employee_name": "Priya Shah",
+      "email_address": "it-9p3@example.test",
+      "phone_number": "+1-202-555-0533"
+    },
+    {
+      "employee_name": "Maya Patel",
+      "email_address": "it-4v4@example.test",
+      "phone_number": "+1-202-555-0544"
+    },
+    {
+      "employee_name": "Daniel Cho",
+      "email_address": "it-5d5@example.test",
+      "phone_number": "+1-202-555-0555"
+    }
+  ]
+}

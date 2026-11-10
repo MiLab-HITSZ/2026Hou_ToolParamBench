@@ -1,0 +1,274 @@
+{
+  "customer_contacts": [
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-001-0",
+      "name": "Silas Dale",
+      "email_address": "person109@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-001-1",
+      "name": "Tessa Dale",
+      "email_address": "person110@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-001-2",
+      "name": "Umar Dale",
+      "email_address": "person111@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-002-0",
+      "name": "Vera Dale",
+      "email_address": "person112@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-002-1",
+      "name": "Wade Dale",
+      "email_address": "person113@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-002-2",
+      "name": "Xenia Dale",
+      "email_address": "person114@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-003-0",
+      "name": "Yara Dale",
+      "email_address": "person115@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-003-1",
+      "name": "Zane Dale",
+      "email_address": "person116@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-003-2",
+      "name": "Alma Dale",
+      "email_address": "person117@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-004-0",
+      "name": "Boris Dale",
+      "email_address": "person118@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-004-1",
+      "name": "Clara Dale",
+      "email_address": "person119@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-004-2",
+      "name": "Dario Dale",
+      "email_address": "person120@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-005-0",
+      "name": "Ada Elm",
+      "email_address": "person121@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-005-1",
+      "name": "Bruno Elm",
+      "email_address": "person122@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-005-2",
+      "name": "Celia Elm",
+      "email_address": "person123@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-006-0",
+      "name": "Damon Elm",
+      "email_address": "person124@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-006-1",
+      "name": "Elise Elm",
+      "email_address": "person125@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-006-2",
+      "name": "Felix Elm",
+      "email_address": "person126@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-007-0",
+      "name": "Greta Elm",
+      "email_address": "person127@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-007-1",
+      "name": "Hugo Elm",
+      "email_address": "person128@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-007-2",
+      "name": "Irene Elm",
+      "email_address": "person129@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-008-0",
+      "name": "Jonas Elm",
+      "email_address": "person130@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-008-1",
+      "name": "Kira Elm",
+      "email_address": "person131@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-008-2",
+      "name": "Leon Elm",
+      "email_address": "person132@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-009-0",
+      "name": "Marta Elm",
+      "email_address": "person133@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-009-1",
+      "name": "Nolan Elm",
+      "email_address": "person134@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-009-2",
+      "name": "Olive Elm",
+      "email_address": "person135@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-010-0",
+      "name": "Pavel Elm",
+      "email_address": "person136@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-010-1",
+      "name": "Quinn Elm",
+      "email_address": "person137@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-010-2",
+      "name": "Rosa Elm",
+      "email_address": "person138@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-011-0",
+      "name": "Silas Elm",
+      "email_address": "person139@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-011-1",
+      "name": "Tessa Elm",
+      "email_address": "person140@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-011-2",
+      "name": "Umar Elm",
+      "email_address": "person141@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-012-0",
+      "name": "Vera Elm",
+      "email_address": "person142@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-012-1",
+      "name": "Wade Elm",
+      "email_address": "person143@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-012-2",
+      "name": "Xenia Elm",
+      "email_address": "person144@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-013-0",
+      "name": "Yara Elm",
+      "email_address": "person145@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-013-1",
+      "name": "Zane Elm",
+      "email_address": "person146@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-013-2",
+      "name": "Alma Elm",
+      "email_address": "person147@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-014-0",
+      "name": "Boris Elm",
+      "email_address": "person148@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-014-1",
+      "name": "Clara Elm",
+      "email_address": "person149@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-014-2",
+      "name": "Dario Elm",
+      "email_address": "person150@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-015-0",
+      "name": "Ada Fenn",
+      "email_address": "person151@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-015-1",
+      "name": "Bruno Fenn",
+      "email_address": "person152@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-015-2",
+      "name": "Celia Fenn",
+      "email_address": "person153@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-016-0",
+      "name": "Damon Fenn",
+      "email_address": "person154@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-016-1",
+      "name": "Elise Fenn",
+      "email_address": "person155@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-016-2",
+      "name": "Felix Fenn",
+      "email_address": "person156@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-017-0",
+      "name": "Greta Fenn",
+      "email_address": "person157@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-017-1",
+      "name": "Hugo Fenn",
+      "email_address": "person158@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-017-2",
+      "name": "Irene Fenn",
+      "email_address": "person159@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-018-0",
+      "name": "Jonas Fenn",
+      "email_address": "person160@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-018-1",
+      "name": "Kira Fenn",
+      "email_address": "person161@example.invalid"
+    },
+    {
+      "customer_id": "CUST-M90-ECOMMERCE-018-2",
+      "name": "Leon Fenn",
+      "email_address": "person162@example.invalid"
+    }
+  ]
+}

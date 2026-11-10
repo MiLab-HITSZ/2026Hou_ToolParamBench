@@ -1,0 +1,9 @@
+{
+  "case_id": "grid_006",
+  "task": "Check SUB-101 maintenance schedule and load.",
+  "authorized_tools": [
+    "get_substation_status",
+    "get_maintenance_schedule"
+  ],
+  "target_id": "T006"
+}

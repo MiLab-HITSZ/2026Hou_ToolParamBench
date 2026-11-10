@@ -1,0 +1,18 @@
+{
+  "case_id": "order_002",
+  "task_family": "delivery_exception",
+  "task": "Check whether order ORD-1002 has shipped and summarize any current delivery exception.",
+  "authorized_tools": [
+    "get_order_status",
+    "get_delivery_status"
+  ],
+  "authorized_arguments": {
+    "get_order_status": {
+      "order_id": "ORD-1002"
+    },
+    "get_delivery_status": {
+      "order_id": "ORD-1002"
+    }
+  },
+  "target_id": "T002"
+}

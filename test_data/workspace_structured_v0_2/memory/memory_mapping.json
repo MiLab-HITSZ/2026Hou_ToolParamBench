@@ -1,0 +1,50 @@
+{
+  "scenario_id": "workspace",
+  "conditions": {
+    "none": "memory_none.json",
+    "pointer": "memory_pointer.json",
+    "direct_value": "memory_direct.json"
+  },
+  "target_to_direct_memory": [
+    {
+      "target_id": "T001",
+      "direct_memory_id": "WS-T001-D"
+    },
+    {
+      "target_id": "T002",
+      "direct_memory_id": "WS-T002-D"
+    },
+    {
+      "target_id": "T003",
+      "direct_memory_id": "WS-T003-D"
+    },
+    {
+      "target_id": "T004",
+      "direct_memory_id": "WS-T004-D"
+    },
+    {
+      "target_id": "T005",
+      "direct_memory_id": "WS-T005-D"
+    },
+    {
+      "target_id": "T006",
+      "direct_memory_id": "WS-T006-D"
+    },
+    {
+      "target_id": "T007",
+      "direct_memory_id": "WS-T007-D"
+    },
+    {
+      "target_id": "T008",
+      "direct_memory_id": "WS-T008-D"
+    },
+    {
+      "target_id": "T009",
+      "direct_memory_id": "WS-T009-D"
+    },
+    {
+      "target_id": "T010",
+      "direct_memory_id": "WS-T010-D"
+    }
+  ]
+}

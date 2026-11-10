@@ -1,0 +1,166 @@
+{
+  "substations": [
+    {
+      "substation_id": "SUB-M90-POWER_GRID-001",
+      "asset_id": "SUB-M90-POWER_GRID-001",
+      "primary_operator": "Greta Hale",
+      "backup_operator": "Hugo Hale",
+      "status": "operational",
+      "capacity_mw": 110,
+      "load_mw": 60
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-002",
+      "asset_id": "SUB-M90-POWER_GRID-002",
+      "primary_operator": "Jonas Hale",
+      "backup_operator": "Kira Hale",
+      "status": "operational",
+      "capacity_mw": 120,
+      "load_mw": 70
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-003",
+      "asset_id": "SUB-M90-POWER_GRID-003",
+      "primary_operator": "Marta Hale",
+      "backup_operator": "Nolan Hale",
+      "status": "operational",
+      "capacity_mw": 130,
+      "load_mw": 80
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-004",
+      "asset_id": "SUB-M90-POWER_GRID-004",
+      "primary_operator": "Pavel Hale",
+      "backup_operator": "Quinn Hale",
+      "status": "operational",
+      "capacity_mw": 140,
+      "load_mw": 90
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-005",
+      "asset_id": "SUB-M90-POWER_GRID-005",
+      "primary_operator": "Silas Hale",
+      "backup_operator": "Tessa Hale",
+      "status": "operational",
+      "capacity_mw": 150,
+      "load_mw": 100
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-006",
+      "asset_id": "SUB-M90-POWER_GRID-006",
+      "primary_operator": "Vera Hale",
+      "backup_operator": "Wade Hale",
+      "status": "operational",
+      "capacity_mw": 160,
+      "load_mw": 110
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-007",
+      "asset_id": "SUB-M90-POWER_GRID-007",
+      "primary_operator": "Yara Hale",
+      "backup_operator": "Zane Hale",
+      "status": "operational",
+      "capacity_mw": 170,
+      "load_mw": 120
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-008",
+      "asset_id": "SUB-M90-POWER_GRID-008",
+      "primary_operator": "Boris Hale",
+      "backup_operator": "Clara Hale",
+      "status": "operational",
+      "capacity_mw": 180,
+      "load_mw": 130
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-009",
+      "asset_id": "SUB-M90-POWER_GRID-009",
+      "primary_operator": "Ada Ives",
+      "backup_operator": "Bruno Ives",
+      "status": "operational",
+      "capacity_mw": 190,
+      "load_mw": 140
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-010",
+      "asset_id": "SUB-M90-POWER_GRID-010",
+      "primary_operator": "Damon Ives",
+      "backup_operator": "Elise Ives",
+      "status": "operational",
+      "capacity_mw": 200,
+      "load_mw": 150
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-011",
+      "asset_id": "SUB-M90-POWER_GRID-011",
+      "primary_operator": "Greta Ives",
+      "backup_operator": "Hugo Ives",
+      "status": "operational",
+      "capacity_mw": 210,
+      "load_mw": 160
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-012",
+      "asset_id": "SUB-M90-POWER_GRID-012",
+      "primary_operator": "Jonas Ives",
+      "backup_operator": "Kira Ives",
+      "status": "operational",
+      "capacity_mw": 220,
+      "load_mw": 170
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-013",
+      "asset_id": "SUB-M90-POWER_GRID-013",
+      "primary_operator": "Marta Ives",
+      "backup_operator": "Nolan Ives",
+      "status": "operational",
+      "capacity_mw": 230,
+      "load_mw": 180
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-014",
+      "asset_id": "SUB-M90-POWER_GRID-014",
+      "primary_operator": "Pavel Ives",
+      "backup_operator": "Quinn Ives",
+      "status": "operational",
+      "capacity_mw": 240,
+      "load_mw": 190
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-015",
+      "asset_id": "SUB-M90-POWER_GRID-015",
+      "primary_operator": "Silas Ives",
+      "backup_operator": "Tessa Ives",
+      "status": "operational",
+      "capacity_mw": 250,
+      "load_mw": 200
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-016",
+      "asset_id": "SUB-M90-POWER_GRID-016",
+      "primary_operator": "Vera Ives",
+      "backup_operator": "Wade Ives",
+      "status": "operational",
+      "capacity_mw": 260,
+      "load_mw": 210
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-017",
+      "asset_id": "SUB-M90-POWER_GRID-017",
+      "primary_operator": "Yara Ives",
+      "backup_operator": "Zane Ives",
+      "status": "operational",
+      "capacity_mw": 270,
+      "load_mw": 220
+    },
+    {
+      "substation_id": "SUB-M90-POWER_GRID-018",
+      "asset_id": "SUB-M90-POWER_GRID-018",
+      "primary_operator": "Boris Ives",
+      "backup_operator": "Clara Ives",
+      "status": "operational",
+      "capacity_mw": 280,
+      "load_mw": 230
+    }
+  ]
+}

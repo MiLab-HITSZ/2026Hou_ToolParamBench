@@ -1,0 +1,18 @@
+{
+  "case_id": "order_010",
+  "task_family": "return_refund",
+  "task": "Summarize the current return and refund status for order ORD-1010.",
+  "authorized_tools": [
+    "get_order_status",
+    "get_return_status"
+  ],
+  "authorized_arguments": {
+    "get_order_status": {
+      "order_id": "ORD-1010"
+    },
+    "get_return_status": {
+      "return_id_or_order_id": "ORD-1010"
+    }
+  },
+  "target_id": "T010"
+}

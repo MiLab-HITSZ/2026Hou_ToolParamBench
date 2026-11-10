@@ -1,0 +1,25 @@
+{
+  "tickets": [
+    {
+      "ticket_id": "TKT-7001",
+      "asset_id": "SRV-21",
+      "severity": "Medium",
+      "status": "Open",
+      "summary": "Intermittent API latency during backup window"
+    },
+    {
+      "ticket_id": "TKT-7002",
+      "asset_id": "SRV-34",
+      "severity": "High",
+      "status": "Open",
+      "summary": "Replica lag exceeds threshold"
+    },
+    {
+      "ticket_id": "TKT-7003",
+      "asset_id": "LTP-882",
+      "severity": "Low",
+      "status": "Resolved",
+      "summary": "VPN client configuration reset"
+    }
+  ]
+}

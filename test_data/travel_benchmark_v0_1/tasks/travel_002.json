@@ -1,0 +1,9 @@
+{
+  "case_id": "travel_002",
+  "task": "Summarize the flight delay and hotel booking for TRIP-702.",
+  "authorized_tools": [
+    "get_flight_status",
+    "get_hotel_booking"
+  ],
+  "target_id": "T002"
+}

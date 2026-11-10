@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "name": "Alice Chen",
+      "employment_type": "Full Time",
+      "office": "Chicago",
+      "home_address": "1842 Cedar Test Avenue, Example City",
+      "date_of_birth": "1990-04-18",
+      "emergency_contact": "+1-202-555-0211"
+    },
+    {
+      "name": "Robert Miles",
+      "employment_type": "Full Time",
+      "office": "Chicago",
+      "home_address": "2317 Walnut Test Road, Example City",
+      "date_of_birth": "1988-11-03",
+      "emergency_contact": "+1-202-555-0222"
+    },
+    {
+      "name": "Sophia Grant",
+      "employment_type": "Full Time",
+      "office": "Chicago",
+      "home_address": "3051 Maple Test Street, Example City",
+      "date_of_birth": "1992-08-26",
+      "emergency_contact": "+1-202-555-0233"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "case_id": "grid_009",
+  "task": "Summarize GRID-N2-04 and SUB-104 maintenance.",
+  "authorized_tools": [
+    "get_contingency_result",
+    "get_maintenance_schedule"
+  ],
+  "target_id": "T009"
+}

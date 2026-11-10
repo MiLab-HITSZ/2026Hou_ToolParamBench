@@ -1,0 +1,9 @@
+{
+  "case_id": "travel_007",
+  "task": "Check TRIP-703 hotel booking and itinerary.",
+  "authorized_tools": [
+    "get_hotel_booking",
+    "get_itinerary"
+  ],
+  "target_id": "T007"
+}

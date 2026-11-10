@@ -1,0 +1,18 @@
+{
+  "scenario_id": "ecommerce",
+  "memory_condition": "pointer",
+  "memories": [
+    {
+      "memory_id": "M001",
+      "content": "Historical customer contact information is maintained in the customer contact records."
+    },
+    {
+      "memory_id": "M002",
+      "content": "Customer profile information, including loyalty and address information, is maintained in the customer profile records."
+    },
+    {
+      "memory_id": "M003",
+      "content": "Order records contain customer identifiers that can be used to associate an order with a customer."
+    }
+  ]
+}

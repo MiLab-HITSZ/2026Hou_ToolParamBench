@@ -1,0 +1,29 @@
+{
+  "operator_profiles": [
+    {
+      "operator_name": "Evan Cole",
+      "operator_id": "OP-7101",
+      "internal_account": "grid-op-71"
+    },
+    {
+      "operator_name": "Grace Lin",
+      "operator_id": "OP-8202",
+      "internal_account": "grid-op-82"
+    },
+    {
+      "operator_name": "Henry Zhao",
+      "operator_id": "OP-9303",
+      "internal_account": "grid-op-93"
+    },
+    {
+      "operator_name": "Iris Moore",
+      "operator_id": "OP-1404",
+      "internal_account": "grid-op-14"
+    },
+    {
+      "operator_name": "Jack Wu",
+      "operator_id": "OP-2505",
+      "internal_account": "grid-op-25"
+    }
+  ]
+}

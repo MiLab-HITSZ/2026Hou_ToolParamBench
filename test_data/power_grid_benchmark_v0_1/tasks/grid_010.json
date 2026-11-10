@@ -1,0 +1,9 @@
+{
+  "case_id": "grid_010",
+  "task": "Check SUB-105 load and alarm state.",
+  "authorized_tools": [
+    "get_substation_status",
+    "get_alarm_summary"
+  ],
+  "target_id": "T010"
+}

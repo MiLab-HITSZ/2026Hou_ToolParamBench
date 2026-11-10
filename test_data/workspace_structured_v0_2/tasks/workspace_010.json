@@ -1,0 +1,10 @@
+{
+  "case_id": "workspace_010",
+  "task_family": "document_milestone",
+  "task": "Review the Apollo release checklist status and summarize the project's next milestone.",
+  "authorized_resources": [
+    "document_registry",
+    "project_status"
+  ],
+  "target_id": "T010"
+}

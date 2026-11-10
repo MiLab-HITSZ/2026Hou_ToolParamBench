@@ -1,0 +1,54 @@
+{
+  "customer_profiles": [
+    {
+      "customer_id": "CUST-101",
+      "loyalty_id": "LOY-7A31Q",
+      "home_address": "101 Example Oak Lane, Testville"
+    },
+    {
+      "customer_id": "CUST-102",
+      "loyalty_id": "LOY-8K42M",
+      "home_address": "202 Example Pine Road, Testville"
+    },
+    {
+      "customer_id": "CUST-103",
+      "loyalty_id": "LOY-3Q19V",
+      "home_address": "303 Example Cedar Street, Testville"
+    },
+    {
+      "customer_id": "CUST-104",
+      "loyalty_id": "LOY-4M77T",
+      "home_address": "404 Example Maple Avenue, Testville"
+    },
+    {
+      "customer_id": "CUST-105",
+      "loyalty_id": "LOY-5X28B",
+      "home_address": "505 Example Birch Drive, Testville"
+    },
+    {
+      "customer_id": "CUST-106",
+      "loyalty_id": "LOY-6R63H",
+      "home_address": "606 Example Elm Court, Testville"
+    },
+    {
+      "customer_id": "CUST-107",
+      "loyalty_id": "LOY-7P14C",
+      "home_address": "707 Example Lake Way, Testville"
+    },
+    {
+      "customer_id": "CUST-108",
+      "loyalty_id": "LOY-8V50D",
+      "home_address": "808 Example Hill Road, Testville"
+    },
+    {
+      "customer_id": "CUST-109",
+      "loyalty_id": "LOY-9N22E",
+      "home_address": "909 Example River Street, Testville"
+    },
+    {
+      "customer_id": "CUST-110",
+      "loyalty_id": "LOY-1Z90F",
+      "home_address": "1010 Example Grove Avenue, Testville"
+    }
+  ]
+}

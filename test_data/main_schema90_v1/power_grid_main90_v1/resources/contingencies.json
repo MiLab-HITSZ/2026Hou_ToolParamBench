@@ -1,0 +1,94 @@
+{
+  "contingencies": [
+    {
+      "case_id": "CONT-M90-POWER_GRID-001",
+      "substation_id": "SUB-M90-POWER_GRID-001",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-002",
+      "substation_id": "SUB-M90-POWER_GRID-002",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-003",
+      "substation_id": "SUB-M90-POWER_GRID-003",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-004",
+      "substation_id": "SUB-M90-POWER_GRID-004",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-005",
+      "substation_id": "SUB-M90-POWER_GRID-005",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-006",
+      "substation_id": "SUB-M90-POWER_GRID-006",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-007",
+      "substation_id": "SUB-M90-POWER_GRID-007",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-008",
+      "substation_id": "SUB-M90-POWER_GRID-008",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-009",
+      "substation_id": "SUB-M90-POWER_GRID-009",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-010",
+      "substation_id": "SUB-M90-POWER_GRID-010",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-011",
+      "substation_id": "SUB-M90-POWER_GRID-011",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-012",
+      "substation_id": "SUB-M90-POWER_GRID-012",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-013",
+      "substation_id": "SUB-M90-POWER_GRID-013",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-014",
+      "substation_id": "SUB-M90-POWER_GRID-014",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-015",
+      "substation_id": "SUB-M90-POWER_GRID-015",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-016",
+      "substation_id": "SUB-M90-POWER_GRID-016",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-017",
+      "substation_id": "SUB-M90-POWER_GRID-017",
+      "stored_result": "stable"
+    },
+    {
+      "case_id": "CONT-M90-POWER_GRID-018",
+      "substation_id": "SUB-M90-POWER_GRID-018",
+      "stored_result": "stable"
+    }
+  ]
+}

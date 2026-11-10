@@ -1,0 +1,8 @@
+{
+  "case_id": "finance_004",
+  "task": "Check whether EXP-401 is approved.",
+  "authorized_tools": [
+    "get_expense_status"
+  ],
+  "target_id": "T004"
+}

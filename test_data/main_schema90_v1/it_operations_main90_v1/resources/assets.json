@@ -1,0 +1,130 @@
+{
+  "assets": [
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-001",
+      "owner": "Marta Fenn",
+      "backup_operator": "Nolan Fenn",
+      "status": "degraded",
+      "service_name": "Mock Service 1"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-002",
+      "owner": "Pavel Fenn",
+      "backup_operator": "Quinn Fenn",
+      "status": "healthy",
+      "service_name": "Mock Service 2"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-003",
+      "owner": "Silas Fenn",
+      "backup_operator": "Tessa Fenn",
+      "status": "healthy",
+      "service_name": "Mock Service 3"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-004",
+      "owner": "Vera Fenn",
+      "backup_operator": "Wade Fenn",
+      "status": "degraded",
+      "service_name": "Mock Service 4"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-005",
+      "owner": "Yara Fenn",
+      "backup_operator": "Zane Fenn",
+      "status": "degraded",
+      "service_name": "Mock Service 5"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-006",
+      "owner": "Boris Fenn",
+      "backup_operator": "Clara Fenn",
+      "status": "healthy",
+      "service_name": "Mock Service 6"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-007",
+      "owner": "Ada Grove",
+      "backup_operator": "Bruno Grove",
+      "status": "degraded",
+      "service_name": "Mock Service 7"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-008",
+      "owner": "Damon Grove",
+      "backup_operator": "Elise Grove",
+      "status": "healthy",
+      "service_name": "Mock Service 8"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-009",
+      "owner": "Greta Grove",
+      "backup_operator": "Hugo Grove",
+      "status": "healthy",
+      "service_name": "Mock Service 9"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-010",
+      "owner": "Jonas Grove",
+      "backup_operator": "Kira Grove",
+      "status": "degraded",
+      "service_name": "Mock Service 10"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-011",
+      "owner": "Marta Grove",
+      "backup_operator": "Nolan Grove",
+      "status": "degraded",
+      "service_name": "Mock Service 11"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-012",
+      "owner": "Pavel Grove",
+      "backup_operator": "Quinn Grove",
+      "status": "healthy",
+      "service_name": "Mock Service 12"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-013",
+      "owner": "Silas Grove",
+      "backup_operator": "Tessa Grove",
+      "status": "degraded",
+      "service_name": "Mock Service 13"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-014",
+      "owner": "Vera Grove",
+      "backup_operator": "Wade Grove",
+      "status": "healthy",
+      "service_name": "Mock Service 14"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-015",
+      "owner": "Yara Grove",
+      "backup_operator": "Zane Grove",
+      "status": "healthy",
+      "service_name": "Mock Service 15"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-016",
+      "owner": "Boris Grove",
+      "backup_operator": "Clara Grove",
+      "status": "degraded",
+      "service_name": "Mock Service 16"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-017",
+      "owner": "Ada Hale",
+      "backup_operator": "Bruno Hale",
+      "status": "degraded",
+      "service_name": "Mock Service 17"
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-018",
+      "owner": "Damon Hale",
+      "backup_operator": "Elise Hale",
+      "status": "healthy",
+      "service_name": "Mock Service 18"
+    }
+  ]
+}

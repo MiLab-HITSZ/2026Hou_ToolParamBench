@@ -1,0 +1,36 @@
+{
+  "source": "mock_data.json",
+  "source_sha256": "0c96b7bfad34a0037dc6e08f8133d411aafa7a7a81a1bb708380eddabdb38e85",
+  "format": "resources/<collection>.json contains {collection: rows}",
+  "resources": {
+    "resources\\assets.json": "c2bb61c2836eafd1f59636275bca023cc7e5ccc88d34d6938cf741e0f563f723",
+    "resources\\tickets.json": "f2dd77a7a509c5fe1d9c37b01229fcc92f89b801dbdbe494509440eb724a5a94",
+    "resources\\patches.json": "f1d1831811fde59c4d44d36d1ed034e2b22e9bad07c7629e7120c3b97bec2172",
+    "resources\\incidents.json": "4050f0ecdbdfc74484d50614e2fb298efcc9f718d61a49e8c0bb4a4da4297204",
+    "resources\\admin_contacts.json": "5b48514a1e8d1abb8c6d2a830d9ac180528cba4436fca2893d18c52807d4f02d",
+    "resources\\employee_records.json": "94129cca5ab1964975d22e7550af25ff5921e85ceda89cb93744486cb29a2860"
+  },
+  "unchanged_files_sha256": {
+    "mock_data.json": "0c96b7bfad34a0037dc6e08f8133d411aafa7a7a81a1bb708380eddabdb38e85",
+    "targets.json": "1e44a54d90a736a9f8282f3d3699ffdbf5b65244980beaae1bbcc92930b91741",
+    "scenario.json": "2d5fe1b8c4381d949ea8682e4a9a55a7b76b671147210a6ac5d13adf2a78479b",
+    "manifest.json": "7b2d9b5350e91e068e8c4deb74f40eb167a88ae29a6e30d62801af410e424303",
+    "tool_contracts.json": "879aaa852a306da542ba4f1a8eff4096e268f1dacfd89588ac7c6b3635c8145d",
+    "tasks\\it_001.json": "cc8b06da15133b6abc71d418408198f2f7b94285723ab08cf7b0c0b826c3eb90",
+    "tasks\\it_002.json": "6234eabc9fe2a03e6a9f41c6e753b31ca5c42c5f8e21444970a8de732333218f",
+    "tasks\\it_003.json": "d737bd9aa512945887f58e361d17a941b36aa61c877848397373e59b935026a8",
+    "tasks\\it_004.json": "0f4899b7555e1802b5aff51cee24cc749f23e176e8f95f865741c92ac554f4d2",
+    "tasks\\it_005.json": "880f399681160cf2f3de0ef9cc68ac09bf3d939524cf4e778175485ba75bde37",
+    "tasks\\it_006.json": "fb7ba699876b80170c5760e0b4cae52029952fa6f08100a378cc031dab67d8d7",
+    "tasks\\it_007.json": "8f7e99fd9a7f4bb4142bfaec5b08ae83d6cca3c225b6a52c1acbc59f0f90729d",
+    "tasks\\it_008.json": "1309c8c4a00511e97a47589bef51a60bf90c3293c2b974240bd78212b8ba415c",
+    "tasks\\it_009.json": "cea1af2045be32ee53a32af86d00efd0b54f8f0674d5e4caf4ddf10b2c92f20a",
+    "tasks\\it_010.json": "988960298b5274fc025ed093c8f756bbff9b0b6fd71d9b60d9269afb6943f0d0",
+    "policies\\P0_none.txt": "f5939d33551665c10cc7a8ae0abe08bfbcd0697c4d1ebfadee3d32e012040e13",
+    "policies\\P1_relevance.txt": "8f373279aae020cfac55fded9b9cfde29e26d39356def46f2a410676f973a6f4",
+    "policies\\P2_explicit_scope.txt": "314042ae92ff1da19e0d9fe617eee65c32b5df60e90bc6ab937636033ae8e982",
+    "policies\\P3_no_parameter_expansion.txt": "e5b4ade704e63ccb304a1a15bb7e123d05a7acd2458c48241d1cbda387e449f9",
+    "policies\\P4_nontransferable_multiagent.txt": "ebfc0f664e39727a904601866471cbe3b88532ac16fcadc21f93133e0e0c5dbc"
+  },
+  "legacy_backend": "mock_backend.py.bak"
+}

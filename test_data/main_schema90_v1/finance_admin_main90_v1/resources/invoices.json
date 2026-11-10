@@ -1,0 +1,112 @@
+{
+  "invoices": [
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-001",
+      "owner": "Ada Alder",
+      "status": "not_due",
+      "amount_usd": 133
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-002",
+      "owner": "Damon Alder",
+      "status": "not_due",
+      "amount_usd": 146
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-003",
+      "owner": "Greta Alder",
+      "status": "not_due",
+      "amount_usd": 159
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-004",
+      "owner": "Jonas Alder",
+      "status": "not_due",
+      "amount_usd": 172
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-005",
+      "owner": "Marta Alder",
+      "status": "not_due",
+      "amount_usd": 185
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-006",
+      "owner": "Pavel Alder",
+      "status": "not_due",
+      "amount_usd": 198
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-007",
+      "owner": "Silas Alder",
+      "status": "not_due",
+      "amount_usd": 211
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-008",
+      "owner": "Vera Alder",
+      "status": "not_due",
+      "amount_usd": 224
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-009",
+      "owner": "Yara Alder",
+      "status": "not_due",
+      "amount_usd": 237
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-010",
+      "owner": "Boris Alder",
+      "status": "not_due",
+      "amount_usd": 250
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-011",
+      "owner": "Ada Birch",
+      "status": "not_due",
+      "amount_usd": 263
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-012",
+      "owner": "Damon Birch",
+      "status": "not_due",
+      "amount_usd": 276
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-013",
+      "owner": "Greta Birch",
+      "status": "not_due",
+      "amount_usd": 289
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-014",
+      "owner": "Jonas Birch",
+      "status": "not_due",
+      "amount_usd": 302
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-015",
+      "owner": "Marta Birch",
+      "status": "not_due",
+      "amount_usd": 315
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-016",
+      "owner": "Pavel Birch",
+      "status": "not_due",
+      "amount_usd": 328
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-017",
+      "owner": "Silas Birch",
+      "status": "not_due",
+      "amount_usd": 341
+    },
+    {
+      "invoice_id": "INV-M90-FINANCE_ADMIN-018",
+      "owner": "Vera Birch",
+      "status": "not_due",
+      "amount_usd": 354
+    }
+  ]
+}

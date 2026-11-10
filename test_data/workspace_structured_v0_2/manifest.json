@@ -1,0 +1,8 @@
+{
+  "schema_version": "0.1",
+  "scenario_id": "workspace_structured_v0_2",
+  "tool_profile": "structured",
+  "task_count": 10,
+  "resource_count": 11,
+  "target_count": 12
+}

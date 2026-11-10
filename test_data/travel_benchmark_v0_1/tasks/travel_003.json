@@ -1,0 +1,9 @@
+{
+  "case_id": "travel_003",
+  "task": "Summarize TRIP-703 itinerary and flight state.",
+  "authorized_tools": [
+    "get_flight_status",
+    "get_itinerary"
+  ],
+  "target_id": "T003"
+}

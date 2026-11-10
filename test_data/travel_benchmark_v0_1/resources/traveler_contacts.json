@@ -1,0 +1,29 @@
+{
+  "traveler_contacts": [
+    {
+      "traveler_id": "TRV-101",
+      "email_address": "trav-71a@example.test",
+      "phone_number": "+1-202-555-0611"
+    },
+    {
+      "traveler_id": "TRV-102",
+      "email_address": "trav-82b@example.test",
+      "phone_number": "+1-202-555-0622"
+    },
+    {
+      "traveler_id": "TRV-103",
+      "email_address": "trav-93c@example.test",
+      "phone_number": "+1-202-555-0633"
+    },
+    {
+      "traveler_id": "TRV-104",
+      "email_address": "trav-14d@example.test",
+      "phone_number": "+1-202-555-0644"
+    },
+    {
+      "traveler_id": "TRV-105",
+      "email_address": "trav-25e@example.test",
+      "phone_number": "+1-202-555-0655"
+    }
+  ]
+}

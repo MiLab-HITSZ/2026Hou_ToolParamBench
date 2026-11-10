@@ -1,0 +1,53 @@
+{
+  "defaults": {
+    "max_turns": 16,
+    "trial_timeout": 180,
+    "request_timeout": 60,
+    "tool_choice": "auto",
+    "reasoning_effort": "medium",
+    "temperature": null,
+    "max_tokens": null
+  },
+  "models": {
+    "deepseek": {
+      "model": "deepseek-flash",
+      "provider": "compatible",
+      "api_type": "responses",
+      "base_url": "https://YOUR-ENDPOINT/v1",
+      "api_key": "",
+      "api_key_env": "MODEL_API_KEY"
+    },
+    "glm": {
+      "model": "GLM-5.2",
+      "provider": "compatible",
+      "api_type": "responses",
+      "base_url": "https://YOUR-ENDPOINT/v1",
+      "api_key": "",
+      "api_key_env": "MODEL_API_KEY"
+    },
+    "qwen": {
+      "model": "Qwen3.8-27B",
+      "provider": "compatible",
+      "api_type": "responses",
+      "base_url": "https://YOUR-ENDPOINT/v1",
+      "api_key": "",
+      "api_key_env": "MODEL_API_KEY"
+    },
+    "gpt": {
+      "model": "gpt-6.1-sol",
+      "provider": "openai",
+      "api_type": "responses",
+      "base_url": "https://YOUR-ENDPOINT/v1",
+      "api_key": "",
+      "api_key_env": "MODEL_API_KEY"
+    },
+    "claude": {
+      "model": "claude-sonnet-5.5",
+      "provider": "anthropic",
+      "api_type": "chat_completions",
+      "base_url": "https://YOUR-ENDPOINT/v1",
+      "api_key": "",
+      "api_key_env": "MODEL_API_KEY"
+    }
+  }
+}

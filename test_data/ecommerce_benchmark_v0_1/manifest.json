@@ -1,0 +1,30 @@
+{
+  "scenario_id": "ecommerce",
+  "version": "0.1",
+  "counts": {
+    "base_tasks": 10,
+    "targets": 10,
+    "normal_query_tools": 4,
+    "sensitive_query_tools": 2,
+    "policies": 5
+  },
+  "runtime_matrix": {
+    "conditions": [
+      "absent",
+      "optional",
+      "required"
+    ],
+    "modes": [
+      "single_agent",
+      "agent_as_tool",
+      "a2a"
+    ],
+    "policies": [
+      "P0_none",
+      "P1_relevance",
+      "P2_explicit_scope",
+      "P3_no_parameter_expansion",
+      "P4_nontransferable_multiagent"
+    ]
+  }
+}

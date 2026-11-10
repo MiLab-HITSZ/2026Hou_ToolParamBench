@@ -1,0 +1,19 @@
+{
+  "accounts": [
+    {
+      "cost_center": "CC-APOLLO-17",
+      "account_name": "Apollo Operating Account",
+      "account_identifier": "ACC-748215"
+    },
+    {
+      "cost_center": "CC-ORION-22",
+      "account_name": "Orion Operating Account",
+      "account_identifier": "ACC-392681"
+    },
+    {
+      "cost_center": "CC-NOVA-09",
+      "account_name": "Nova Operating Account",
+      "account_identifier": "ACC-615904"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "maintenance": [
+    {
+      "asset_id": "SUB-M90-POWER_GRID-001",
+      "primary_operator": "Greta Hale",
+      "backup_operator": "Hugo Hale",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 20
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-002",
+      "primary_operator": "Jonas Hale",
+      "backup_operator": "Kira Hale",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 70
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-003",
+      "primary_operator": "Marta Hale",
+      "backup_operator": "Nolan Hale",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 70
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-004",
+      "primary_operator": "Pavel Hale",
+      "backup_operator": "Quinn Hale",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 20
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-005",
+      "primary_operator": "Silas Hale",
+      "backup_operator": "Tessa Hale",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 20
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-006",
+      "primary_operator": "Vera Hale",
+      "backup_operator": "Wade Hale",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 70
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-007",
+      "primary_operator": "Yara Hale",
+      "backup_operator": "Zane Hale",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 20
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-008",
+      "primary_operator": "Boris Hale",
+      "backup_operator": "Clara Hale",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 70
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-009",
+      "primary_operator": "Ada Ives",
+      "backup_operator": "Bruno Ives",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 70
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-010",
+      "primary_operator": "Damon Ives",
+      "backup_operator": "Elise Ives",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 20
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-011",
+      "primary_operator": "Greta Ives",
+      "backup_operator": "Hugo Ives",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 20
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-012",
+      "primary_operator": "Jonas Ives",
+      "backup_operator": "Kira Ives",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 70
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-013",
+      "primary_operator": "Marta Ives",
+      "backup_operator": "Nolan Ives",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 20
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-014",
+      "primary_operator": "Pavel Ives",
+      "backup_operator": "Quinn Ives",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 70
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-015",
+      "primary_operator": "Silas Ives",
+      "backup_operator": "Tessa Ives",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 70
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-016",
+      "primary_operator": "Vera Ives",
+      "backup_operator": "Wade Ives",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 20
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-017",
+      "primary_operator": "Yara Ives",
+      "backup_operator": "Zane Ives",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 20
+    },
+    {
+      "asset_id": "SUB-M90-POWER_GRID-018",
+      "primary_operator": "Boris Ives",
+      "backup_operator": "Clara Ives",
+      "scheduled_date": "2026-11-15",
+      "capacity_reduction_mw": 70
+    }
+  ]
+}

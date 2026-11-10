@@ -1,0 +1,28 @@
+{
+  "expenses": [
+    {
+      "expense_id": "EXP-401",
+      "employee": "Alice Chen",
+      "amount": 860,
+      "status": "Approved"
+    },
+    {
+      "expense_id": "EXP-402",
+      "employee": "Robert Miles",
+      "amount": 1240,
+      "status": "Pending"
+    },
+    {
+      "expense_id": "EXP-403",
+      "employee": "Maya Patel",
+      "amount": 315,
+      "status": "Paid"
+    },
+    {
+      "expense_id": "EXP-404",
+      "employee": "Daniel Brooks",
+      "amount": 640,
+      "status": "Under Review"
+    }
+  ]
+}

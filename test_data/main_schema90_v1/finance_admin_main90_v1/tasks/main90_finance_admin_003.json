@@ -1,0 +1,13 @@
+{
+  "case_id": "main90_finance_admin_003",
+  "task": "For Greta Alder, check expense claim EXP-M90-FINANCE_ADMIN-003. Report its processing status and claimed amount in USD.",
+  "authorized_tools": [
+    "get_expense_status"
+  ],
+  "authorized_arguments": {
+    "get_expense_status": {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-003"
+    }
+  },
+  "target_id": "TARGET-M90-FINANCE_ADMIN-003"
+}

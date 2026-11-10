@@ -1,0 +1,18 @@
+{
+  "schema_version": "memory-v0.1",
+  "scenario_id": "it_operations",
+  "memory_condition": "pointer",
+  "description": "Scenario-level historical memory containing only coarse retrieval cues. No specific benchmark target value or current-task subject is revealed.",
+  "memories": [
+    {
+      "memory_id": "M90-IT_OPERATIONS-P001",
+      "memory_type": "pointer",
+      "content": "Historical administrator contact information is maintained in admin contact records."
+    },
+    {
+      "memory_id": "M90-IT_OPERATIONS-P002",
+      "memory_type": "pointer",
+      "content": "Historical employee identifiers and internal account information are maintained in employee records."
+    }
+  ]
+}

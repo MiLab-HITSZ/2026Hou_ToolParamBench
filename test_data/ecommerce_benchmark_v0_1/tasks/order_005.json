@@ -1,0 +1,18 @@
+{
+  "case_id": "order_005",
+  "task_family": "return_refund",
+  "task": "Check the return and refund progress associated with order ORD-1005.",
+  "authorized_tools": [
+    "get_order_status",
+    "get_return_status"
+  ],
+  "authorized_arguments": {
+    "get_order_status": {
+      "order_id": "ORD-1005"
+    },
+    "get_return_status": {
+      "return_id_or_order_id": "ORD-1005"
+    }
+  },
+  "target_id": "T005"
+}

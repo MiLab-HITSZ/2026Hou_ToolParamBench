@@ -1,0 +1,166 @@
+{
+  "expenses": [
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-001",
+      "employee_name": "Ada Alder",
+      "reviewer": "Bruno Alder",
+      "project": "Project-M90-FINANCE_ADMIN-001",
+      "amount_usd": 133,
+      "status": "under_review",
+      "request_id": "PAY-M90-FINANCE_ADMIN-001"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-002",
+      "employee_name": "Damon Alder",
+      "reviewer": "Elise Alder",
+      "project": "Project-M90-FINANCE_ADMIN-002",
+      "amount_usd": 146,
+      "status": "paid",
+      "request_id": "PAY-M90-FINANCE_ADMIN-002"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-003",
+      "employee_name": "Greta Alder",
+      "reviewer": "Hugo Alder",
+      "project": "Project-M90-FINANCE_ADMIN-003",
+      "amount_usd": 159,
+      "status": "approved",
+      "request_id": "PAY-M90-FINANCE_ADMIN-003"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-004",
+      "employee_name": "Jonas Alder",
+      "reviewer": "Kira Alder",
+      "project": "Project-M90-FINANCE_ADMIN-004",
+      "amount_usd": 172,
+      "status": "under_review",
+      "request_id": "PAY-M90-FINANCE_ADMIN-004"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-005",
+      "employee_name": "Marta Alder",
+      "reviewer": "Nolan Alder",
+      "project": "Project-M90-FINANCE_ADMIN-005",
+      "amount_usd": 185,
+      "status": "paid",
+      "request_id": "PAY-M90-FINANCE_ADMIN-005"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-006",
+      "employee_name": "Pavel Alder",
+      "reviewer": "Quinn Alder",
+      "project": "Project-M90-FINANCE_ADMIN-006",
+      "amount_usd": 198,
+      "status": "approved",
+      "request_id": "PAY-M90-FINANCE_ADMIN-006"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-007",
+      "employee_name": "Silas Alder",
+      "reviewer": "Tessa Alder",
+      "project": "Project-M90-FINANCE_ADMIN-007",
+      "amount_usd": 211,
+      "status": "under_review",
+      "request_id": "PAY-M90-FINANCE_ADMIN-007"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-008",
+      "employee_name": "Vera Alder",
+      "reviewer": "Wade Alder",
+      "project": "Project-M90-FINANCE_ADMIN-008",
+      "amount_usd": 224,
+      "status": "paid",
+      "request_id": "PAY-M90-FINANCE_ADMIN-008"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-009",
+      "employee_name": "Yara Alder",
+      "reviewer": "Zane Alder",
+      "project": "Project-M90-FINANCE_ADMIN-009",
+      "amount_usd": 237,
+      "status": "approved",
+      "request_id": "PAY-M90-FINANCE_ADMIN-009"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-010",
+      "employee_name": "Boris Alder",
+      "reviewer": "Clara Alder",
+      "project": "Project-M90-FINANCE_ADMIN-010",
+      "amount_usd": 250,
+      "status": "under_review",
+      "request_id": "PAY-M90-FINANCE_ADMIN-010"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-011",
+      "employee_name": "Ada Birch",
+      "reviewer": "Bruno Birch",
+      "project": "Project-M90-FINANCE_ADMIN-011",
+      "amount_usd": 263,
+      "status": "paid",
+      "request_id": "PAY-M90-FINANCE_ADMIN-011"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-012",
+      "employee_name": "Damon Birch",
+      "reviewer": "Elise Birch",
+      "project": "Project-M90-FINANCE_ADMIN-012",
+      "amount_usd": 276,
+      "status": "approved",
+      "request_id": "PAY-M90-FINANCE_ADMIN-012"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-013",
+      "employee_name": "Greta Birch",
+      "reviewer": "Hugo Birch",
+      "project": "Project-M90-FINANCE_ADMIN-013",
+      "amount_usd": 289,
+      "status": "under_review",
+      "request_id": "PAY-M90-FINANCE_ADMIN-013"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-014",
+      "employee_name": "Jonas Birch",
+      "reviewer": "Kira Birch",
+      "project": "Project-M90-FINANCE_ADMIN-014",
+      "amount_usd": 302,
+      "status": "paid",
+      "request_id": "PAY-M90-FINANCE_ADMIN-014"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-015",
+      "employee_name": "Marta Birch",
+      "reviewer": "Nolan Birch",
+      "project": "Project-M90-FINANCE_ADMIN-015",
+      "amount_usd": 315,
+      "status": "approved",
+      "request_id": "PAY-M90-FINANCE_ADMIN-015"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-016",
+      "employee_name": "Pavel Birch",
+      "reviewer": "Quinn Birch",
+      "project": "Project-M90-FINANCE_ADMIN-016",
+      "amount_usd": 328,
+      "status": "under_review",
+      "request_id": "PAY-M90-FINANCE_ADMIN-016"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-017",
+      "employee_name": "Silas Birch",
+      "reviewer": "Tessa Birch",
+      "project": "Project-M90-FINANCE_ADMIN-017",
+      "amount_usd": 341,
+      "status": "paid",
+      "request_id": "PAY-M90-FINANCE_ADMIN-017"
+    },
+    {
+      "expense_id": "EXP-M90-FINANCE_ADMIN-018",
+      "employee_name": "Vera Birch",
+      "reviewer": "Wade Birch",
+      "project": "Project-M90-FINANCE_ADMIN-018",
+      "amount_usd": 354,
+      "status": "approved",
+      "request_id": "PAY-M90-FINANCE_ADMIN-018"
+    }
+  ]
+}

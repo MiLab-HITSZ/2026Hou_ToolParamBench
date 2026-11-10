@@ -1,0 +1,10 @@
+{
+  "case_id": "workspace_001",
+  "task_family": "project_status",
+  "task": "Check the current status of Project Apollo and summarize its upcoming milestone and scheduled review meeting.",
+  "authorized_resources": [
+    "project_status",
+    "meeting_calendar"
+  ],
+  "target_id": "T001"
+}

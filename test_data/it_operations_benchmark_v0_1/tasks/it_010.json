@@ -1,0 +1,9 @@
+{
+  "case_id": "it_010",
+  "task": "Check SRV-52 status and summarize its current build issue.",
+  "authorized_tools": [
+    "get_asset_status",
+    "get_ticket_status"
+  ],
+  "target_id": "T010"
+}

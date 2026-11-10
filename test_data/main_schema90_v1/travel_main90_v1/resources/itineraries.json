@@ -1,0 +1,148 @@
+{
+  "itineraries": [
+    {
+      "trip_id": "TRIP-M90-TRAVEL-001",
+      "traveler_id": "TRV-M90-TRAVEL-001-0",
+      "traveler_name": "Yara Birch",
+      "travel_companion": "Zane Birch",
+      "destination": "Mock City 1",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-002",
+      "traveler_id": "TRV-M90-TRAVEL-002-0",
+      "traveler_name": "Boris Birch",
+      "travel_companion": "Clara Birch",
+      "destination": "Mock City 2",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-003",
+      "traveler_id": "TRV-M90-TRAVEL-003-0",
+      "traveler_name": "Ada Cedar",
+      "travel_companion": "Bruno Cedar",
+      "destination": "Mock City 3",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-004",
+      "traveler_id": "TRV-M90-TRAVEL-004-0",
+      "traveler_name": "Damon Cedar",
+      "travel_companion": "Elise Cedar",
+      "destination": "Mock City 4",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-005",
+      "traveler_id": "TRV-M90-TRAVEL-005-0",
+      "traveler_name": "Greta Cedar",
+      "travel_companion": "Hugo Cedar",
+      "destination": "Mock City 5",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-006",
+      "traveler_id": "TRV-M90-TRAVEL-006-0",
+      "traveler_name": "Jonas Cedar",
+      "travel_companion": "Kira Cedar",
+      "destination": "Mock City 6",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-007",
+      "traveler_id": "TRV-M90-TRAVEL-007-0",
+      "traveler_name": "Marta Cedar",
+      "travel_companion": "Nolan Cedar",
+      "destination": "Mock City 7",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-008",
+      "traveler_id": "TRV-M90-TRAVEL-008-0",
+      "traveler_name": "Pavel Cedar",
+      "travel_companion": "Quinn Cedar",
+      "destination": "Mock City 8",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-009",
+      "traveler_id": "TRV-M90-TRAVEL-009-0",
+      "traveler_name": "Silas Cedar",
+      "travel_companion": "Tessa Cedar",
+      "destination": "Mock City 9",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-010",
+      "traveler_id": "TRV-M90-TRAVEL-010-0",
+      "traveler_name": "Vera Cedar",
+      "travel_companion": "Wade Cedar",
+      "destination": "Mock City 10",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-011",
+      "traveler_id": "TRV-M90-TRAVEL-011-0",
+      "traveler_name": "Yara Cedar",
+      "travel_companion": "Zane Cedar",
+      "destination": "Mock City 11",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-012",
+      "traveler_id": "TRV-M90-TRAVEL-012-0",
+      "traveler_name": "Boris Cedar",
+      "travel_companion": "Clara Cedar",
+      "destination": "Mock City 12",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-013",
+      "traveler_id": "TRV-M90-TRAVEL-013-0",
+      "traveler_name": "Ada Dale",
+      "travel_companion": "Bruno Dale",
+      "destination": "Mock City 13",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-014",
+      "traveler_id": "TRV-M90-TRAVEL-014-0",
+      "traveler_name": "Damon Dale",
+      "travel_companion": "Elise Dale",
+      "destination": "Mock City 14",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-015",
+      "traveler_id": "TRV-M90-TRAVEL-015-0",
+      "traveler_name": "Greta Dale",
+      "travel_companion": "Hugo Dale",
+      "destination": "Mock City 15",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-016",
+      "traveler_id": "TRV-M90-TRAVEL-016-0",
+      "traveler_name": "Jonas Dale",
+      "travel_companion": "Kira Dale",
+      "destination": "Mock City 16",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-017",
+      "traveler_id": "TRV-M90-TRAVEL-017-0",
+      "traveler_name": "Marta Dale",
+      "travel_companion": "Nolan Dale",
+      "destination": "Mock City 17",
+      "start_date": "2026-11-10"
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-018",
+      "traveler_id": "TRV-M90-TRAVEL-018-0",
+      "traveler_name": "Pavel Dale",
+      "travel_companion": "Quinn Dale",
+      "destination": "Mock City 18",
+      "start_date": "2026-11-10"
+    }
+  ]
+}

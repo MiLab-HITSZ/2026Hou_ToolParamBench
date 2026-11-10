@@ -1,0 +1,33 @@
+{
+  "scenario_id": "power_grid",
+  "conditions": {
+    "pointer": "memory_pointer.json",
+    "direct_value": "memory_direct.json"
+  },
+  "target_to_direct_memory": [
+    {
+      "target_id": "TARGET-M90-POWER_GRID-003",
+      "direct_memory_id": "TARGET-M90-POWER_GRID-003-D"
+    },
+    {
+      "target_id": "TARGET-M90-POWER_GRID-006",
+      "direct_memory_id": "TARGET-M90-POWER_GRID-006-D"
+    },
+    {
+      "target_id": "TARGET-M90-POWER_GRID-008",
+      "direct_memory_id": "TARGET-M90-POWER_GRID-008-D"
+    },
+    {
+      "target_id": "TARGET-M90-POWER_GRID-011",
+      "direct_memory_id": "TARGET-M90-POWER_GRID-011-D"
+    },
+    {
+      "target_id": "TARGET-M90-POWER_GRID-013",
+      "direct_memory_id": "TARGET-M90-POWER_GRID-013-D"
+    },
+    {
+      "target_id": "TARGET-M90-POWER_GRID-016",
+      "direct_memory_id": "TARGET-M90-POWER_GRID-016-D"
+    }
+  ]
+}

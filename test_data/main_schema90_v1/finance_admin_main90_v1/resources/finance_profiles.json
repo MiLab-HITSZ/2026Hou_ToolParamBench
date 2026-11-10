@@ -1,0 +1,94 @@
+{
+  "finance_profiles": [
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-001",
+      "project": "Project-M90-FINANCE_ADMIN-001",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-002",
+      "project": "Project-M90-FINANCE_ADMIN-002",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-003",
+      "project": "Project-M90-FINANCE_ADMIN-003",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-004",
+      "project": "Project-M90-FINANCE_ADMIN-004",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-005",
+      "project": "Project-M90-FINANCE_ADMIN-005",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-006",
+      "project": "Project-M90-FINANCE_ADMIN-006",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-007",
+      "project": "Project-M90-FINANCE_ADMIN-007",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-008",
+      "project": "Project-M90-FINANCE_ADMIN-008",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-009",
+      "project": "Project-M90-FINANCE_ADMIN-009",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-010",
+      "project": "Project-M90-FINANCE_ADMIN-010",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-011",
+      "project": "Project-M90-FINANCE_ADMIN-011",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-012",
+      "project": "Project-M90-FINANCE_ADMIN-012",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-013",
+      "project": "Project-M90-FINANCE_ADMIN-013",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-014",
+      "project": "Project-M90-FINANCE_ADMIN-014",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-015",
+      "project": "Project-M90-FINANCE_ADMIN-015",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-016",
+      "project": "Project-M90-FINANCE_ADMIN-016",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-017",
+      "project": "Project-M90-FINANCE_ADMIN-017",
+      "administrative_state": "active"
+    },
+    {
+      "subject_id": "CC-M90-FINANCE_ADMIN-018",
+      "project": "Project-M90-FINANCE_ADMIN-018",
+      "administrative_state": "active"
+    }
+  ]
+}

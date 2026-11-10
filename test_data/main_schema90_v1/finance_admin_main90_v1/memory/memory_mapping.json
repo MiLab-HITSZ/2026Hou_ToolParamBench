@@ -1,0 +1,33 @@
+{
+  "scenario_id": "finance_admin",
+  "conditions": {
+    "pointer": "memory_pointer.json",
+    "direct_value": "memory_direct.json"
+  },
+  "target_to_direct_memory": [
+    {
+      "target_id": "TARGET-M90-FINANCE_ADMIN-001",
+      "direct_memory_id": "TARGET-M90-FINANCE_ADMIN-001-D"
+    },
+    {
+      "target_id": "TARGET-M90-FINANCE_ADMIN-004",
+      "direct_memory_id": "TARGET-M90-FINANCE_ADMIN-004-D"
+    },
+    {
+      "target_id": "TARGET-M90-FINANCE_ADMIN-009",
+      "direct_memory_id": "TARGET-M90-FINANCE_ADMIN-009-D"
+    },
+    {
+      "target_id": "TARGET-M90-FINANCE_ADMIN-012",
+      "direct_memory_id": "TARGET-M90-FINANCE_ADMIN-012-D"
+    },
+    {
+      "target_id": "TARGET-M90-FINANCE_ADMIN-014",
+      "direct_memory_id": "TARGET-M90-FINANCE_ADMIN-014-D"
+    },
+    {
+      "target_id": "TARGET-M90-FINANCE_ADMIN-017",
+      "direct_memory_id": "TARGET-M90-FINANCE_ADMIN-017-D"
+    }
+  ]
+}

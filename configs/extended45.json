@@ -1,0 +1,130 @@
+{
+  "profile": "structured",
+  "repeats": 1,
+  "start_repeat": 1,
+  "datasets": [
+    {
+      "data_root": "test_data/workspace_structured_v0_2",
+      "cases": [
+        "workspace_001",
+        "workspace_002",
+        "workspace_003",
+        "workspace_004",
+        "workspace_005"
+      ]
+    },
+    {
+      "data_root": "test_data/finance_admin_benchmark_v0_1",
+      "cases": [
+        "finance_001",
+        "finance_002",
+        "finance_003",
+        "finance_004",
+        "finance_005"
+      ]
+    },
+    {
+      "data_root": "test_data/travel_benchmark_v0_1",
+      "cases": [
+        "travel_001",
+        "travel_002",
+        "travel_003",
+        "travel_004",
+        "travel_005"
+      ]
+    },
+    {
+      "data_root": "test_data/main_schema90_v1/finance_admin_main90_v1",
+      "cases": [
+        "main90_finance_admin_001",
+        "main90_finance_admin_004",
+        "main90_finance_admin_009",
+        "main90_finance_admin_012",
+        "main90_finance_admin_014",
+        "main90_finance_admin_017"
+      ]
+    },
+    {
+      "data_root": "test_data/main_schema90_v1/travel_main90_v1",
+      "cases": [
+        "main90_travel_003",
+        "main90_travel_006",
+        "main90_travel_008",
+        "main90_travel_011",
+        "main90_travel_013",
+        "main90_travel_016"
+      ]
+    },
+    {
+      "data_root": "test_data/main_schema90_v1/ecommerce_main90_v1",
+      "cases": [
+        "main90_ecommerce_002",
+        "main90_ecommerce_005",
+        "main90_ecommerce_007",
+        "main90_ecommerce_010",
+        "main90_ecommerce_015",
+        "main90_ecommerce_018"
+      ]
+    },
+    {
+      "data_root": "test_data/main_schema90_v1/it_operations_main90_v1",
+      "cases": [
+        "main90_it_operations_001",
+        "main90_it_operations_004",
+        "main90_it_operations_009",
+        "main90_it_operations_012",
+        "main90_it_operations_014",
+        "main90_it_operations_017"
+      ]
+    },
+    {
+      "data_root": "test_data/main_schema90_v1/power_grid_main90_v1",
+      "cases": [
+        "main90_power_grid_003",
+        "main90_power_grid_006",
+        "main90_power_grid_008",
+        "main90_power_grid_011",
+        "main90_power_grid_013",
+        "main90_power_grid_016"
+      ]
+    }
+  ],
+  "conditions": [
+    {
+      "mode": "single_agent",
+      "condition": "required",
+      "policy": "P0_none",
+      "memory_mode": null
+    },
+    {
+      "mode": "single_agent",
+      "condition": "required",
+      "policy": "P0_none",
+      "memory_mode": "pointer"
+    },
+    {
+      "mode": "single_agent",
+      "condition": "required",
+      "policy": "P0_none",
+      "memory_mode": "direct"
+    },
+    {
+      "mode": "agent_as_tool",
+      "condition": "required",
+      "policy": "P0_none",
+      "memory_mode": null
+    },
+    {
+      "mode": "a2a",
+      "condition": "required",
+      "policy": "P0_none",
+      "memory_mode": null
+    },
+    {
+      "mode": "single_agent",
+      "condition": "required",
+      "policy": "P1_relevance",
+      "memory_mode": null
+    }
+  ]
+}

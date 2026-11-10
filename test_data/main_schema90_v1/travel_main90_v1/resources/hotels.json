@@ -1,0 +1,202 @@
+{
+  "hotels": [
+    {
+      "trip_id": "TRIP-M90-TRAVEL-001",
+      "traveler_id": "TRV-M90-TRAVEL-001-0",
+      "traveler_name": "Yara Birch",
+      "travel_companion_id": "TRV-M90-TRAVEL-001-1",
+      "travel_companion": "Zane Birch",
+      "hotel_name": "Example Hotel 1",
+      "booking_status": "pending",
+      "nightly_rate_usd": 99,
+      "nights": 3
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-002",
+      "traveler_id": "TRV-M90-TRAVEL-002-0",
+      "traveler_name": "Boris Birch",
+      "travel_companion_id": "TRV-M90-TRAVEL-002-1",
+      "travel_companion": "Clara Birch",
+      "hotel_name": "Example Hotel 2",
+      "booking_status": "confirmed",
+      "nightly_rate_usd": 103,
+      "nights": 4
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-003",
+      "traveler_id": "TRV-M90-TRAVEL-003-0",
+      "traveler_name": "Ada Cedar",
+      "travel_companion_id": "TRV-M90-TRAVEL-003-1",
+      "travel_companion": "Bruno Cedar",
+      "hotel_name": "Example Hotel 3",
+      "booking_status": "confirmed",
+      "nightly_rate_usd": 107,
+      "nights": 2
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-004",
+      "traveler_id": "TRV-M90-TRAVEL-004-0",
+      "traveler_name": "Damon Cedar",
+      "travel_companion_id": "TRV-M90-TRAVEL-004-1",
+      "travel_companion": "Elise Cedar",
+      "hotel_name": "Example Hotel 4",
+      "booking_status": "pending",
+      "nightly_rate_usd": 111,
+      "nights": 3
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-005",
+      "traveler_id": "TRV-M90-TRAVEL-005-0",
+      "traveler_name": "Greta Cedar",
+      "travel_companion_id": "TRV-M90-TRAVEL-005-1",
+      "travel_companion": "Hugo Cedar",
+      "hotel_name": "Example Hotel 5",
+      "booking_status": "pending",
+      "nightly_rate_usd": 115,
+      "nights": 4
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-006",
+      "traveler_id": "TRV-M90-TRAVEL-006-0",
+      "traveler_name": "Jonas Cedar",
+      "travel_companion_id": "TRV-M90-TRAVEL-006-1",
+      "travel_companion": "Kira Cedar",
+      "hotel_name": "Example Hotel 6",
+      "booking_status": "confirmed",
+      "nightly_rate_usd": 119,
+      "nights": 2
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-007",
+      "traveler_id": "TRV-M90-TRAVEL-007-0",
+      "traveler_name": "Marta Cedar",
+      "travel_companion_id": "TRV-M90-TRAVEL-007-1",
+      "travel_companion": "Nolan Cedar",
+      "hotel_name": "Example Hotel 7",
+      "booking_status": "pending",
+      "nightly_rate_usd": 123,
+      "nights": 3
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-008",
+      "traveler_id": "TRV-M90-TRAVEL-008-0",
+      "traveler_name": "Pavel Cedar",
+      "travel_companion_id": "TRV-M90-TRAVEL-008-1",
+      "travel_companion": "Quinn Cedar",
+      "hotel_name": "Example Hotel 8",
+      "booking_status": "confirmed",
+      "nightly_rate_usd": 127,
+      "nights": 4
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-009",
+      "traveler_id": "TRV-M90-TRAVEL-009-0",
+      "traveler_name": "Silas Cedar",
+      "travel_companion_id": "TRV-M90-TRAVEL-009-1",
+      "travel_companion": "Tessa Cedar",
+      "hotel_name": "Example Hotel 9",
+      "booking_status": "confirmed",
+      "nightly_rate_usd": 131,
+      "nights": 2
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-010",
+      "traveler_id": "TRV-M90-TRAVEL-010-0",
+      "traveler_name": "Vera Cedar",
+      "travel_companion_id": "TRV-M90-TRAVEL-010-1",
+      "travel_companion": "Wade Cedar",
+      "hotel_name": "Example Hotel 10",
+      "booking_status": "pending",
+      "nightly_rate_usd": 135,
+      "nights": 3
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-011",
+      "traveler_id": "TRV-M90-TRAVEL-011-0",
+      "traveler_name": "Yara Cedar",
+      "travel_companion_id": "TRV-M90-TRAVEL-011-1",
+      "travel_companion": "Zane Cedar",
+      "hotel_name": "Example Hotel 11",
+      "booking_status": "pending",
+      "nightly_rate_usd": 139,
+      "nights": 4
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-012",
+      "traveler_id": "TRV-M90-TRAVEL-012-0",
+      "traveler_name": "Boris Cedar",
+      "travel_companion_id": "TRV-M90-TRAVEL-012-1",
+      "travel_companion": "Clara Cedar",
+      "hotel_name": "Example Hotel 12",
+      "booking_status": "confirmed",
+      "nightly_rate_usd": 143,
+      "nights": 2
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-013",
+      "traveler_id": "TRV-M90-TRAVEL-013-0",
+      "traveler_name": "Ada Dale",
+      "travel_companion_id": "TRV-M90-TRAVEL-013-1",
+      "travel_companion": "Bruno Dale",
+      "hotel_name": "Example Hotel 13",
+      "booking_status": "pending",
+      "nightly_rate_usd": 147,
+      "nights": 3
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-014",
+      "traveler_id": "TRV-M90-TRAVEL-014-0",
+      "traveler_name": "Damon Dale",
+      "travel_companion_id": "TRV-M90-TRAVEL-014-1",
+      "travel_companion": "Elise Dale",
+      "hotel_name": "Example Hotel 14",
+      "booking_status": "confirmed",
+      "nightly_rate_usd": 151,
+      "nights": 4
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-015",
+      "traveler_id": "TRV-M90-TRAVEL-015-0",
+      "traveler_name": "Greta Dale",
+      "travel_companion_id": "TRV-M90-TRAVEL-015-1",
+      "travel_companion": "Hugo Dale",
+      "hotel_name": "Example Hotel 15",
+      "booking_status": "confirmed",
+      "nightly_rate_usd": 155,
+      "nights": 2
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-016",
+      "traveler_id": "TRV-M90-TRAVEL-016-0",
+      "traveler_name": "Jonas Dale",
+      "travel_companion_id": "TRV-M90-TRAVEL-016-1",
+      "travel_companion": "Kira Dale",
+      "hotel_name": "Example Hotel 16",
+      "booking_status": "pending",
+      "nightly_rate_usd": 159,
+      "nights": 3
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-017",
+      "traveler_id": "TRV-M90-TRAVEL-017-0",
+      "traveler_name": "Marta Dale",
+      "travel_companion_id": "TRV-M90-TRAVEL-017-1",
+      "travel_companion": "Nolan Dale",
+      "hotel_name": "Example Hotel 17",
+      "booking_status": "pending",
+      "nightly_rate_usd": 163,
+      "nights": 4
+    },
+    {
+      "trip_id": "TRIP-M90-TRAVEL-018",
+      "traveler_id": "TRV-M90-TRAVEL-018-0",
+      "traveler_name": "Pavel Dale",
+      "travel_companion_id": "TRV-M90-TRAVEL-018-1",
+      "travel_companion": "Quinn Dale",
+      "hotel_name": "Example Hotel 18",
+      "booking_status": "confirmed",
+      "nightly_rate_usd": 167,
+      "nights": 2
+    }
+  ]
+}

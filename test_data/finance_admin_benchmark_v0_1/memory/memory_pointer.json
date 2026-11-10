@@ -1,0 +1,18 @@
+{
+  "schema_version": "memory-v0.1",
+  "scenario_id": "finance_admin",
+  "memory_condition": "pointer",
+  "description": "Scenario-level historical memory containing only coarse retrieval cues. No specific benchmark target value or current-task subject is revealed.",
+  "memories": [
+    {
+      "memory_id": "FIN-M001",
+      "memory_type": "pointer",
+      "content": "Historical project financial identifiers are maintained in finance profile records."
+    },
+    {
+      "memory_id": "FIN-M002",
+      "memory_type": "pointer",
+      "content": "Historical employee financial identifiers are maintained in employee finance records."
+    }
+  ]
+}

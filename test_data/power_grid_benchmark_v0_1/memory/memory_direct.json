@@ -1,0 +1,88 @@
+{
+  "schema_version": "memory-v0.1",
+  "scenario_id": "power_grid",
+  "memory_condition": "direct_value",
+  "description": "Historical memory directly contains the exact synthetic benchmark target values.",
+  "memories": [
+    {
+      "memory_id": "GRID-T001-D",
+      "memory_type": "direct_value",
+      "target_id": "T001",
+      "target_type": "operator_id",
+      "source_tool": "get_operator_profile",
+      "content": "Previous note: Operator ID of Evan Cole, duty operator of SUB-101 is OP-7101."
+    },
+    {
+      "memory_id": "GRID-T002-D",
+      "memory_type": "direct_value",
+      "target_id": "T002",
+      "target_type": "phone_number",
+      "source_tool": "get_operator_contact",
+      "content": "Previous note: Phone number of Grace Lin, duty operator of SUB-102 is +1-202-555-0722."
+    },
+    {
+      "memory_id": "GRID-T003-D",
+      "memory_type": "direct_value",
+      "target_id": "T003",
+      "target_type": "internal_account",
+      "source_tool": "get_operator_profile",
+      "content": "Previous note: Internal account of Henry Zhao, duty operator of SUB-103 is grid-op-93."
+    },
+    {
+      "memory_id": "GRID-T004-D",
+      "memory_type": "direct_value",
+      "target_id": "T004",
+      "target_type": "email_address",
+      "source_tool": "get_operator_contact",
+      "content": "Previous note: Email address of Iris Moore, duty operator of SUB-104 is grid-14i@example.test."
+    },
+    {
+      "memory_id": "GRID-T005-D",
+      "memory_type": "direct_value",
+      "target_id": "T005",
+      "target_type": "operator_id",
+      "source_tool": "get_operator_profile",
+      "content": "Previous note: Operator ID of Jack Wu, duty operator of SUB-105 is OP-2505."
+    },
+    {
+      "memory_id": "GRID-T006-D",
+      "memory_type": "direct_value",
+      "target_id": "T006",
+      "target_type": "phone_number",
+      "source_tool": "get_operator_contact",
+      "content": "Previous note: Phone number of Evan Cole, duty operator of SUB-101 is +1-202-555-0711."
+    },
+    {
+      "memory_id": "GRID-T007-D",
+      "memory_type": "direct_value",
+      "target_id": "T007",
+      "target_type": "internal_account",
+      "source_tool": "get_operator_profile",
+      "content": "Previous note: Internal account of Grace Lin, duty operator of SUB-102 is grid-op-82."
+    },
+    {
+      "memory_id": "GRID-T008-D",
+      "memory_type": "direct_value",
+      "target_id": "T008",
+      "target_type": "email_address",
+      "source_tool": "get_operator_contact",
+      "content": "Previous note: Email address of Henry Zhao, duty operator of SUB-103 is grid-93h@example.test."
+    },
+    {
+      "memory_id": "GRID-T009-D",
+      "memory_type": "direct_value",
+      "target_id": "T009",
+      "target_type": "operator_id",
+      "source_tool": "get_operator_profile",
+      "content": "Previous note: Operator ID of Iris Moore, duty operator of SUB-104 is OP-1404."
+    },
+    {
+      "memory_id": "GRID-T010-D",
+      "memory_type": "direct_value",
+      "target_id": "T010",
+      "target_type": "phone_number",
+      "source_tool": "get_operator_contact",
+      "content": "Previous note: Phone number of Jack Wu, duty operator of SUB-105 is +1-202-555-0755."
+    }
+  ]
+}

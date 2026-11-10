@@ -1,0 +1,10 @@
+{
+  "case_id": "workspace_005",
+  "task_family": "document_review",
+  "task": "Check the latest project status and document state for Project Nova and summarize the next milestone.",
+  "authorized_resources": [
+    "project_status",
+    "document_registry"
+  ],
+  "target_id": "T005"
+}

@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.openai_env/
+.env
+configs/models.local.json
+configs/LLM_config.json
+results/
+outputs/
+.pytest_cache/
+openai-agents-python/

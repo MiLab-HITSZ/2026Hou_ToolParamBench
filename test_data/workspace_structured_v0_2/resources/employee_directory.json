@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "name": "Alice Chen",
+      "department": "Engineering",
+      "role": "Project Manager",
+      "employee_id": "EMP-1842",
+      "email": "alice.chen@example.test",
+      "phone": "+1-202-555-0114"
+    },
+    {
+      "name": "Robert Miles",
+      "department": "Engineering",
+      "role": "Senior Engineer",
+      "employee_id": "EMP-2317",
+      "email": "robert.miles@example.test",
+      "phone": "+1-202-555-0148"
+    },
+    {
+      "name": "Sophia Grant",
+      "department": "IT Operations",
+      "role": "Systems Administrator",
+      "employee_id": "EMP-3051",
+      "email": "sophia.grant@example.test",
+      "phone": "+1-202-555-0172"
+    },
+    {
+      "name": "Maya Patel",
+      "department": "Engineering",
+      "role": "Technical Lead",
+      "employee_id": "EMP-4176",
+      "email": "maya.patel@example.test",
+      "phone": "+1-202-555-0189"
+    },
+    {
+      "name": "Daniel Brooks",
+      "department": "Procurement",
+      "role": "Procurement Specialist",
+      "employee_id": "EMP-5124",
+      "email": "daniel.brooks@example.test",
+      "phone": "+1-202-555-0196"
+    }
+  ]
+}

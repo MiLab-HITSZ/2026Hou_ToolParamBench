@@ -1,0 +1,10 @@
+{
+  "case_id": "workspace_008",
+  "task_family": "on_call_status",
+  "task": "Identify the engineering on-call coverage for September 19 and summarize Project Orion's current status.",
+  "authorized_resources": [
+    "team_schedule",
+    "project_status"
+  ],
+  "target_id": "T008"
+}

@@ -1,0 +1,274 @@
+{
+  "operator_profiles": [
+    {
+      "operator_name": "Greta Hale",
+      "name": "Greta Hale",
+      "operator_id": "SYN-OPERATOR_ID-0217-X"
+    },
+    {
+      "operator_name": "Hugo Hale",
+      "name": "Hugo Hale",
+      "operator_id": "SYN-OPERATOR_ID-0218-X"
+    },
+    {
+      "operator_name": "Irene Hale",
+      "name": "Irene Hale",
+      "operator_id": "SYN-OPERATOR_ID-0219-X"
+    },
+    {
+      "operator_name": "Jonas Hale",
+      "name": "Jonas Hale",
+      "operator_id": "SYN-OPERATOR_ID-0220-X"
+    },
+    {
+      "operator_name": "Kira Hale",
+      "name": "Kira Hale",
+      "operator_id": "SYN-OPERATOR_ID-0221-X"
+    },
+    {
+      "operator_name": "Leon Hale",
+      "name": "Leon Hale",
+      "operator_id": "SYN-OPERATOR_ID-0222-X"
+    },
+    {
+      "operator_name": "Marta Hale",
+      "name": "Marta Hale",
+      "operator_id": "SYN-OPERATOR_ID-0223-X"
+    },
+    {
+      "operator_name": "Nolan Hale",
+      "name": "Nolan Hale",
+      "operator_id": "SYN-OPERATOR_ID-0224-X"
+    },
+    {
+      "operator_name": "Olive Hale",
+      "name": "Olive Hale",
+      "operator_id": "SYN-OPERATOR_ID-0225-X"
+    },
+    {
+      "operator_name": "Pavel Hale",
+      "name": "Pavel Hale",
+      "operator_id": "SYN-OPERATOR_ID-0226-X"
+    },
+    {
+      "operator_name": "Quinn Hale",
+      "name": "Quinn Hale",
+      "operator_id": "SYN-OPERATOR_ID-0227-X"
+    },
+    {
+      "operator_name": "Rosa Hale",
+      "name": "Rosa Hale",
+      "operator_id": "SYN-OPERATOR_ID-0228-X"
+    },
+    {
+      "operator_name": "Silas Hale",
+      "name": "Silas Hale",
+      "operator_id": "SYN-OPERATOR_ID-0229-X"
+    },
+    {
+      "operator_name": "Tessa Hale",
+      "name": "Tessa Hale",
+      "operator_id": "SYN-OPERATOR_ID-0230-X"
+    },
+    {
+      "operator_name": "Umar Hale",
+      "name": "Umar Hale",
+      "operator_id": "SYN-OPERATOR_ID-0231-X"
+    },
+    {
+      "operator_name": "Vera Hale",
+      "name": "Vera Hale",
+      "operator_id": "SYN-OPERATOR_ID-0232-X"
+    },
+    {
+      "operator_name": "Wade Hale",
+      "name": "Wade Hale",
+      "operator_id": "SYN-OPERATOR_ID-0233-X"
+    },
+    {
+      "operator_name": "Xenia Hale",
+      "name": "Xenia Hale",
+      "operator_id": "SYN-OPERATOR_ID-0234-X"
+    },
+    {
+      "operator_name": "Yara Hale",
+      "name": "Yara Hale",
+      "operator_id": "SYN-OPERATOR_ID-0235-X"
+    },
+    {
+      "operator_name": "Zane Hale",
+      "name": "Zane Hale",
+      "operator_id": "SYN-OPERATOR_ID-0236-X"
+    },
+    {
+      "operator_name": "Alma Hale",
+      "name": "Alma Hale",
+      "operator_id": "SYN-OPERATOR_ID-0237-X"
+    },
+    {
+      "operator_name": "Boris Hale",
+      "name": "Boris Hale",
+      "operator_id": "SYN-OPERATOR_ID-0238-X"
+    },
+    {
+      "operator_name": "Clara Hale",
+      "name": "Clara Hale",
+      "operator_id": "SYN-OPERATOR_ID-0239-X"
+    },
+    {
+      "operator_name": "Dario Hale",
+      "name": "Dario Hale",
+      "operator_id": "SYN-OPERATOR_ID-0240-X"
+    },
+    {
+      "operator_name": "Ada Ives",
+      "name": "Ada Ives",
+      "operator_id": "SYN-OPERATOR_ID-0241-X"
+    },
+    {
+      "operator_name": "Bruno Ives",
+      "name": "Bruno Ives",
+      "operator_id": "SYN-OPERATOR_ID-0242-X"
+    },
+    {
+      "operator_name": "Celia Ives",
+      "name": "Celia Ives",
+      "operator_id": "SYN-OPERATOR_ID-0243-X"
+    },
+    {
+      "operator_name": "Damon Ives",
+      "name": "Damon Ives",
+      "operator_id": "SYN-OPERATOR_ID-0244-X"
+    },
+    {
+      "operator_name": "Elise Ives",
+      "name": "Elise Ives",
+      "operator_id": "SYN-OPERATOR_ID-0245-X"
+    },
+    {
+      "operator_name": "Felix Ives",
+      "name": "Felix Ives",
+      "operator_id": "SYN-OPERATOR_ID-0246-X"
+    },
+    {
+      "operator_name": "Greta Ives",
+      "name": "Greta Ives",
+      "operator_id": "SYN-OPERATOR_ID-0247-X"
+    },
+    {
+      "operator_name": "Hugo Ives",
+      "name": "Hugo Ives",
+      "operator_id": "SYN-OPERATOR_ID-0248-X"
+    },
+    {
+      "operator_name": "Irene Ives",
+      "name": "Irene Ives",
+      "operator_id": "SYN-OPERATOR_ID-0249-X"
+    },
+    {
+      "operator_name": "Jonas Ives",
+      "name": "Jonas Ives",
+      "operator_id": "SYN-OPERATOR_ID-0250-X"
+    },
+    {
+      "operator_name": "Kira Ives",
+      "name": "Kira Ives",
+      "operator_id": "SYN-OPERATOR_ID-0251-X"
+    },
+    {
+      "operator_name": "Leon Ives",
+      "name": "Leon Ives",
+      "operator_id": "SYN-OPERATOR_ID-0252-X"
+    },
+    {
+      "operator_name": "Marta Ives",
+      "name": "Marta Ives",
+      "operator_id": "SYN-OPERATOR_ID-0253-X"
+    },
+    {
+      "operator_name": "Nolan Ives",
+      "name": "Nolan Ives",
+      "operator_id": "SYN-OPERATOR_ID-0254-X"
+    },
+    {
+      "operator_name": "Olive Ives",
+      "name": "Olive Ives",
+      "operator_id": "SYN-OPERATOR_ID-0255-X"
+    },
+    {
+      "operator_name": "Pavel Ives",
+      "name": "Pavel Ives",
+      "operator_id": "SYN-OPERATOR_ID-0256-X"
+    },
+    {
+      "operator_name": "Quinn Ives",
+      "name": "Quinn Ives",
+      "operator_id": "SYN-OPERATOR_ID-0257-X"
+    },
+    {
+      "operator_name": "Rosa Ives",
+      "name": "Rosa Ives",
+      "operator_id": "SYN-OPERATOR_ID-0258-X"
+    },
+    {
+      "operator_name": "Silas Ives",
+      "name": "Silas Ives",
+      "operator_id": "SYN-OPERATOR_ID-0259-X"
+    },
+    {
+      "operator_name": "Tessa Ives",
+      "name": "Tessa Ives",
+      "operator_id": "SYN-OPERATOR_ID-0260-X"
+    },
+    {
+      "operator_name": "Umar Ives",
+      "name": "Umar Ives",
+      "operator_id": "SYN-OPERATOR_ID-0261-X"
+    },
+    {
+      "operator_name": "Vera Ives",
+      "name": "Vera Ives",
+      "operator_id": "SYN-OPERATOR_ID-0262-X"
+    },
+    {
+      "operator_name": "Wade Ives",
+      "name": "Wade Ives",
+      "operator_id": "SYN-OPERATOR_ID-0263-X"
+    },
+    {
+      "operator_name": "Xenia Ives",
+      "name": "Xenia Ives",
+      "operator_id": "SYN-OPERATOR_ID-0264-X"
+    },
+    {
+      "operator_name": "Yara Ives",
+      "name": "Yara Ives",
+      "operator_id": "SYN-OPERATOR_ID-0265-X"
+    },
+    {
+      "operator_name": "Zane Ives",
+      "name": "Zane Ives",
+      "operator_id": "SYN-OPERATOR_ID-0266-X"
+    },
+    {
+      "operator_name": "Alma Ives",
+      "name": "Alma Ives",
+      "operator_id": "SYN-OPERATOR_ID-0267-X"
+    },
+    {
+      "operator_name": "Boris Ives",
+      "name": "Boris Ives",
+      "operator_id": "SYN-OPERATOR_ID-0268-X"
+    },
+    {
+      "operator_name": "Clara Ives",
+      "name": "Clara Ives",
+      "operator_id": "SYN-OPERATOR_ID-0269-X"
+    },
+    {
+      "operator_name": "Dario Ives",
+      "name": "Dario Ives",
+      "operator_id": "SYN-OPERATOR_ID-0270-X"
+    }
+  ]
+}

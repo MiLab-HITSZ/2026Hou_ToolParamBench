@@ -1,0 +1,24 @@
+{
+  "employee_finance_records": [
+    {
+      "employee_name": "Alice Chen",
+      "tax_id": "TAX-7F21A",
+      "payroll_ref": "PAYR-1184"
+    },
+    {
+      "employee_name": "Robert Miles",
+      "tax_id": "TAX-8K33B",
+      "payroll_ref": "PAYR-2231"
+    },
+    {
+      "employee_name": "Maya Patel",
+      "tax_id": "TAX-4V71C",
+      "payroll_ref": "PAYR-4417"
+    },
+    {
+      "employee_name": "Daniel Brooks",
+      "tax_id": "TAX-5D84D",
+      "payroll_ref": "PAYR-5512"
+    }
+  ]
+}

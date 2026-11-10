@@ -1,0 +1,36 @@
+{
+  "source": "mock_data.json",
+  "source_sha256": "ba92fb7cd33ed13a5ef85d7c5c37049e09c014ce27a9a73f77959d243c647489",
+  "format": "resources/<collection>.json contains {collection: rows}",
+  "resources": {
+    "resources\\orders.json": "f37d9581e35a084564ce88aa0e8b257de63c95d228aea024e8aaae9b2470e2c5",
+    "resources\\deliveries.json": "404aecad6e55d86765c8adab04c63a5421dca0a6d224cc7f9a5bd0f52528c4f5",
+    "resources\\returns.json": "26670742ec7446a31e1fcddbe8193640a3fda38bbd1054b0c405434e1e6fbe3d",
+    "resources\\payments.json": "fa38f853fff22ff52e77d1519ea664e17737e875c5d6f1a2b8f3463e93f5551b",
+    "resources\\customer_contacts.json": "b9b7fe6c183323a95c2305f0eefae14490f4ce8c81e12c715097e5821631823b",
+    "resources\\customer_profiles.json": "5929a60740c2cee0364789472d5f39714808bf3881cebcd9ed92212ff26f2c2f"
+  },
+  "unchanged_files_sha256": {
+    "mock_data.json": "ba92fb7cd33ed13a5ef85d7c5c37049e09c014ce27a9a73f77959d243c647489",
+    "targets.json": "c696f48af3d11095bdb2f41735b1cd7e87a8d634517346b8e426a2589e0ef796",
+    "scenario.json": "106549f313224a70e2a0f78a6b62959a827f3a0b8e2b669d199ed392035a80bf",
+    "manifest.json": "e528665b14660a0fbc556610841ce8e4272d39cc0fc10cd39863be57f2ac5c38",
+    "tool_contracts.json": "cbbf9b045c52af7d583cc504d3c5ade5ebe7c362117798c3a6070196e16617ad",
+    "tasks\\order_001.json": "4a9e82818c082ff40caf205fbc804dc5ad4fb56b608953dffd50491f65d0fc57",
+    "tasks\\order_002.json": "b25e9250ad23c2f806dc2611d7a377c01cda32d441b32f51a025c8c3325efc77",
+    "tasks\\order_003.json": "5ab885b95f50ee6620fa46ef5d9ff49943f51f2cb5390c358caf820c18166818",
+    "tasks\\order_004.json": "10f5fcf3a175a355f4870591134e0688a48c761c41861b82189b573ce6293522",
+    "tasks\\order_005.json": "efed4e46bbbb0ee9728652d28ead07d2be3ef3e6f37bc359934608160bfc1788",
+    "tasks\\order_006.json": "45822d143ab6e4eef327294a23b64afda47a0982b34b0c97443a19fd71a47d5d",
+    "tasks\\order_007.json": "2b6af64912221f901a9833f121a74fa4d4a366ed9b3a1cb21c074ca608b37170",
+    "tasks\\order_008.json": "1f2d00b3aec2ba8a611fc10dede3605d2ba5bbae0795c9cde61dc6a2f701457c",
+    "tasks\\order_009.json": "ee47397c62b9cad1958f609c6d35fadbf9799c94798e4a57d9524c83bb13aa44",
+    "tasks\\order_010.json": "ca1e12cc539193ce8213b7685fd23802eb3eb46887fa8fe2b362514c696e1c76",
+    "policies\\P0_none.txt": "f5939d33551665c10cc7a8ae0abe08bfbcd0697c4d1ebfadee3d32e012040e13",
+    "policies\\P1_relevance.txt": "8f373279aae020cfac55fded9b9cfde29e26d39356def46f2a410676f973a6f4",
+    "policies\\P2_explicit_scope.txt": "90d6b35453250260d5e55b03c588f4201336d49afbb779dbd7f458cdbf804f1a",
+    "policies\\P3_no_parameter_expansion.txt": "192e458329ad2a91c7de42d73c4086a9b163b8f131e2fd4cd31a0da2e604c5eb",
+    "policies\\P4_nontransferable_multiagent.txt": "2c50f9ac3fd4353e612556e67ec2147a94e1f6006569674c2a5f4b2afe16e4ea"
+  },
+  "legacy_backend": "mock_backend.py.bak"
+}

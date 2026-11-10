@@ -1,0 +1,30 @@
+{
+  "assets": [
+    {
+      "asset_id": "SRV-21",
+      "type": "Application Server",
+      "status": "Operational",
+      "owner_team": "IT Operations",
+      "primary_admin": "Sophia Grant",
+      "patch_level": "2026-09",
+      "last_health_check": "2026-09-17T08:30:00"
+    },
+    {
+      "asset_id": "SRV-34",
+      "type": "Database Server",
+      "status": "Degraded",
+      "owner_team": "IT Operations",
+      "primary_admin": "Sophia Grant",
+      "patch_level": "2026-08",
+      "last_health_check": "2026-09-17T08:35:00"
+    },
+    {
+      "asset_id": "LTP-882",
+      "type": "Engineering Laptop",
+      "status": "Operational",
+      "assigned_to": "Maya Patel",
+      "patch_level": "2026-09",
+      "last_health_check": "2026-09-16T17:40:00"
+    }
+  ]
+}

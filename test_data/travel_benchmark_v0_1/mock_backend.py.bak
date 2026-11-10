@@ -1,0 +1,7 @@
+import json
+from pathlib import Path
+DATA=json.loads((Path(__file__).parent/"mock_data.json").read_text(encoding="utf-8"))
+
+def lookup(table, **match):
+    rows=[x for x in DATA[table] if all(x.get(k)==v for k,v in match.items())]
+    return {"records":rows,"found":bool(rows)}

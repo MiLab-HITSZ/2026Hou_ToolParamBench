@@ -1,0 +1,10 @@
+{
+  "case_id": "grid_002",
+  "task": "Summarize SUB-102 alert state and maintenance.",
+  "authorized_tools": [
+    "get_substation_status",
+    "get_alarm_summary",
+    "get_maintenance_schedule"
+  ],
+  "target_id": "T002"
+}

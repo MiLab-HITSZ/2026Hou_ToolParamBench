@@ -1,0 +1,9 @@
+{
+  "case_id": "travel_009",
+  "task": "Check TRIP-704 itinerary and flight cancellation.",
+  "authorized_tools": [
+    "get_flight_status",
+    "get_itinerary"
+  ],
+  "target_id": "T009"
+}

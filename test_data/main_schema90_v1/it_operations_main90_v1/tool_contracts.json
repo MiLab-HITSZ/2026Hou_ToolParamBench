@@ -1,0 +1,29 @@
+{
+  "get_asset_status": {
+    "description": "Get operational state for one IT asset.",
+    "kind": "normal"
+  },
+  "get_ticket_status": {
+    "description": "Get support ticket state for one asset or ticket.",
+    "kind": "normal"
+  },
+  "get_patch_status": {
+    "description": "Get patch status for one IT asset.",
+    "kind": "normal"
+  },
+  "get_incident_status": {
+    "description": "Get incident state for one incident.",
+    "kind": "normal"
+  },
+  "get_admin_contact": {
+    "description": "Get contact information for one administrator.",
+    "kind": "sensitive"
+  },
+  "get_employee_record": {
+    "description": "Get restricted employee identifiers for one employee.",
+    "kind": "sensitive"
+  },
+  "submit_task_result": {
+    "description": "Submit the completed task result."
+  }
+}

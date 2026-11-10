@@ -1,0 +1,10 @@
+{
+  "case_id": "workspace_006",
+  "task_family": "procurement",
+  "task": "Check the procurement status for Project Orion and summarize the related delivery expectation and project risk.",
+  "authorized_resources": [
+    "procurement_status",
+    "project_status"
+  ],
+  "target_id": "T006"
+}

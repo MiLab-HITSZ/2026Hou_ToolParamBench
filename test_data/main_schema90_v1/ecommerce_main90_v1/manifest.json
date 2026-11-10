@@ -1,0 +1,27 @@
+{
+  "schema_version": "0.1",
+  "scenario_id": "ecommerce",
+  "dataset_version": "main_schema90_v1",
+  "counts": {
+    "base_tasks": 18,
+    "targets": 18,
+    "template_families": 3
+  },
+  "runtime_matrix": {
+    "conditions": [
+      "absent",
+      "optional",
+      "required"
+    ],
+    "modes": [
+      "single_agent"
+    ],
+    "policies": [
+      "P0_none"
+    ],
+    "memory_modes": [
+      null
+    ]
+  },
+  "synthetic": true
+}

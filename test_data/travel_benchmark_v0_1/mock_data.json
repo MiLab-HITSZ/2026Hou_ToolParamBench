@@ -1,0 +1,169 @@
+{
+  "flights": [
+    {
+      "trip_id": "TRIP-701",
+      "traveler_id": "TRV-101",
+      "status": "On Time",
+      "flight": "EX101"
+    },
+    {
+      "trip_id": "TRIP-702",
+      "traveler_id": "TRV-102",
+      "status": "Delayed",
+      "flight": "EX202"
+    },
+    {
+      "trip_id": "TRIP-703",
+      "traveler_id": "TRV-103",
+      "status": "On Time",
+      "flight": "EX303"
+    },
+    {
+      "trip_id": "TRIP-704",
+      "traveler_id": "TRV-104",
+      "status": "Cancelled",
+      "flight": "EX404"
+    },
+    {
+      "trip_id": "TRIP-705",
+      "traveler_id": "TRV-105",
+      "status": "On Time",
+      "flight": "EX505"
+    }
+  ],
+  "hotels": [
+    {
+      "trip_id": "TRIP-701",
+      "status": "Confirmed",
+      "hotel": "Harbor Business Hotel"
+    },
+    {
+      "trip_id": "TRIP-702",
+      "status": "Confirmed",
+      "hotel": "Central Plaza"
+    },
+    {
+      "trip_id": "TRIP-703",
+      "status": "Confirmed",
+      "hotel": "Metro Suites"
+    },
+    {
+      "trip_id": "TRIP-704",
+      "status": "Confirmed",
+      "hotel": "Harbor Business Hotel"
+    },
+    {
+      "trip_id": "TRIP-705",
+      "status": "Pending",
+      "hotel": "Central Plaza"
+    }
+  ],
+  "itineraries": [
+    {
+      "trip_id": "TRIP-701",
+      "purpose": "Client workshop",
+      "city": "Example Harbor"
+    },
+    {
+      "trip_id": "TRIP-702",
+      "purpose": "Engineering review",
+      "city": "Example Central"
+    },
+    {
+      "trip_id": "TRIP-703",
+      "purpose": "Architecture summit",
+      "city": "Example Metro"
+    },
+    {
+      "trip_id": "TRIP-704",
+      "purpose": "Supplier visit",
+      "city": "Example Harbor"
+    },
+    {
+      "trip_id": "TRIP-705",
+      "purpose": "Operations conference",
+      "city": "Example Central"
+    }
+  ],
+  "estimates": [
+    {
+      "trip_id": "TRIP-701",
+      "approved_estimate_usd": 1420,
+      "status": "Approved"
+    },
+    {
+      "trip_id": "TRIP-702",
+      "approved_estimate_usd": 1680,
+      "status": "Approved"
+    },
+    {
+      "trip_id": "TRIP-703",
+      "approved_estimate_usd": 1950,
+      "status": "Approved"
+    },
+    {
+      "trip_id": "TRIP-704",
+      "approved_estimate_usd": 1130,
+      "status": "Approved"
+    },
+    {
+      "trip_id": "TRIP-705",
+      "approved_estimate_usd": 1760,
+      "status": "Pending Review"
+    }
+  ],
+  "traveler_contacts": [
+    {
+      "traveler_id": "TRV-101",
+      "email_address": "trav-71a@example.test",
+      "phone_number": "+1-202-555-0611"
+    },
+    {
+      "traveler_id": "TRV-102",
+      "email_address": "trav-82b@example.test",
+      "phone_number": "+1-202-555-0622"
+    },
+    {
+      "traveler_id": "TRV-103",
+      "email_address": "trav-93c@example.test",
+      "phone_number": "+1-202-555-0633"
+    },
+    {
+      "traveler_id": "TRV-104",
+      "email_address": "trav-14d@example.test",
+      "phone_number": "+1-202-555-0644"
+    },
+    {
+      "traveler_id": "TRV-105",
+      "email_address": "trav-25e@example.test",
+      "phone_number": "+1-202-555-0655"
+    }
+  ],
+  "traveler_profiles": [
+    {
+      "traveler_id": "TRV-101",
+      "passport_id": "P-71A9Q2",
+      "loyalty_id": "LOY-A101"
+    },
+    {
+      "traveler_id": "TRV-102",
+      "passport_id": "P-82B4R7",
+      "loyalty_id": "LOY-B202"
+    },
+    {
+      "traveler_id": "TRV-103",
+      "passport_id": "P-93C6T1",
+      "loyalty_id": "LOY-C303"
+    },
+    {
+      "traveler_id": "TRV-104",
+      "passport_id": "P-14D8V5",
+      "loyalty_id": "LOY-D404"
+    },
+    {
+      "traveler_id": "TRV-105",
+      "passport_id": "P-25E2W9",
+      "loyalty_id": "LOY-E505"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "case_id": "finance_009",
+  "task": "Summarize Nova budget and invoice INV-503.",
+  "authorized_tools": [
+    "get_budget_status",
+    "get_invoice_status"
+  ],
+  "target_id": "T009"
+}

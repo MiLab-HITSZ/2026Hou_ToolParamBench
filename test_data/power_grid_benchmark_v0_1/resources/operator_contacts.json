@@ -1,0 +1,29 @@
+{
+  "operator_contacts": [
+    {
+      "operator_name": "Evan Cole",
+      "email_address": "grid-71e@example.test",
+      "phone_number": "+1-202-555-0711"
+    },
+    {
+      "operator_name": "Grace Lin",
+      "email_address": "grid-82g@example.test",
+      "phone_number": "+1-202-555-0722"
+    },
+    {
+      "operator_name": "Henry Zhao",
+      "email_address": "grid-93h@example.test",
+      "phone_number": "+1-202-555-0733"
+    },
+    {
+      "operator_name": "Iris Moore",
+      "email_address": "grid-14i@example.test",
+      "phone_number": "+1-202-555-0744"
+    },
+    {
+      "operator_name": "Jack Wu",
+      "email_address": "grid-25j@example.test",
+      "phone_number": "+1-202-555-0755"
+    }
+  ]
+}

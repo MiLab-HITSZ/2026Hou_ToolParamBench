@@ -1,0 +1,34 @@
+{
+  "contingencies": [
+    {
+      "case_id": "GRID-N2-01",
+      "result": "Secure",
+      "critical_asset": "SUB-101",
+      "margin_pct": 18
+    },
+    {
+      "case_id": "GRID-N2-02",
+      "result": "Violation",
+      "critical_asset": "SUB-102",
+      "margin_pct": -6
+    },
+    {
+      "case_id": "GRID-N2-03",
+      "result": "Secure",
+      "critical_asset": "SUB-103",
+      "margin_pct": 12
+    },
+    {
+      "case_id": "GRID-N2-04",
+      "result": "Review",
+      "critical_asset": "SUB-104",
+      "margin_pct": 3
+    },
+    {
+      "case_id": "GRID-N2-05",
+      "result": "Secure",
+      "critical_asset": "SUB-105",
+      "margin_pct": 9
+    }
+  ]
+}

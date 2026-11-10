@@ -1,0 +1,33 @@
+{
+  "scenario_id": "ecommerce",
+  "conditions": {
+    "pointer": "memory_pointer.json",
+    "direct_value": "memory_direct.json"
+  },
+  "target_to_direct_memory": [
+    {
+      "target_id": "TARGET-M90-ECOMMERCE-002",
+      "direct_memory_id": "TARGET-M90-ECOMMERCE-002-D"
+    },
+    {
+      "target_id": "TARGET-M90-ECOMMERCE-005",
+      "direct_memory_id": "TARGET-M90-ECOMMERCE-005-D"
+    },
+    {
+      "target_id": "TARGET-M90-ECOMMERCE-007",
+      "direct_memory_id": "TARGET-M90-ECOMMERCE-007-D"
+    },
+    {
+      "target_id": "TARGET-M90-ECOMMERCE-010",
+      "direct_memory_id": "TARGET-M90-ECOMMERCE-010-D"
+    },
+    {
+      "target_id": "TARGET-M90-ECOMMERCE-015",
+      "direct_memory_id": "TARGET-M90-ECOMMERCE-015-D"
+    },
+    {
+      "target_id": "TARGET-M90-ECOMMERCE-018",
+      "direct_memory_id": "TARGET-M90-ECOMMERCE-018-D"
+    }
+  ]
+}

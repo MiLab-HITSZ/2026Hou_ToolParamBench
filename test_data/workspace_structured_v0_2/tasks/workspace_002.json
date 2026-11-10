@@ -1,0 +1,10 @@
+{
+  "case_id": "workspace_002",
+  "task_family": "project_risk",
+  "task": "Review the current risks and blockers for Project Orion and summarize the upcoming risk review meeting.",
+  "authorized_resources": [
+    "project_status",
+    "meeting_calendar"
+  ],
+  "target_id": "T002"
+}

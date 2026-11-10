@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "asset_id": "SRV-21",
+      "status": "Operational",
+      "owner": "Sophia Grant"
+    },
+    {
+      "asset_id": "SRV-34",
+      "status": "Degraded",
+      "owner": "Sophia Grant"
+    },
+    {
+      "asset_id": "RTR-11",
+      "status": "Operational",
+      "owner": "Marcus Lee"
+    },
+    {
+      "asset_id": "FW-09",
+      "status": "Operational",
+      "owner": "Priya Shah"
+    },
+    {
+      "asset_id": "LTP-882",
+      "status": "Operational",
+      "owner": "Maya Patel"
+    },
+    {
+      "asset_id": "SRV-60",
+      "status": "Operational",
+      "owner": "Daniel Cho"
+    },
+    {
+      "asset_id": "NAS-07",
+      "status": "Degraded",
+      "owner": "Sophia Grant"
+    },
+    {
+      "asset_id": "SRV-47",
+      "status": "Operational",
+      "owner": "Marcus Lee"
+    },
+    {
+      "asset_id": "VM-301",
+      "status": "Operational",
+      "owner": "Daniel Cho"
+    },
+    {
+      "asset_id": "SRV-52",
+      "status": "Maintenance",
+      "owner": "Priya Shah"
+    }
+  ]
+}

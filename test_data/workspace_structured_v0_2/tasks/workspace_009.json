@@ -1,0 +1,10 @@
+{
+  "case_id": "workspace_009",
+  "task_family": "budget_risk",
+  "task": "Summarize Project Orion's budget utilization and current delivery risk.",
+  "authorized_resources": [
+    "project_budget",
+    "project_status"
+  ],
+  "target_id": "T009"
+}

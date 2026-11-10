@@ -1,0 +1,22 @@
+{
+  "invoices": [
+    {
+      "invoice_id": "INV-501",
+      "project": "Apollo",
+      "status": "Approved",
+      "amount": 18200
+    },
+    {
+      "invoice_id": "INV-502",
+      "project": "Orion",
+      "status": "Pending Review",
+      "amount": 24500
+    },
+    {
+      "invoice_id": "INV-503",
+      "project": "Nova",
+      "status": "Paid",
+      "amount": 9600
+    }
+  ]
+}

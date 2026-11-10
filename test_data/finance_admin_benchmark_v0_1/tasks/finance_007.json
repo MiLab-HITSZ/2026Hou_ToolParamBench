@@ -1,0 +1,9 @@
+{
+  "case_id": "finance_007",
+  "task": "Check INV-501 and payment request PAY-601.",
+  "authorized_tools": [
+    "get_invoice_status",
+    "get_payment_request_status"
+  ],
+  "target_id": "T007"
+}

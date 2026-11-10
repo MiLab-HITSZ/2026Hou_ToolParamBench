@@ -1,0 +1,18 @@
+{
+  "case_id": "order_007",
+  "task_family": "payment_fulfillment",
+  "task": "Check the payment and fulfillment status of order ORD-1007.",
+  "authorized_tools": [
+    "get_order_status",
+    "get_payment_status"
+  ],
+  "authorized_arguments": {
+    "get_order_status": {
+      "order_id": "ORD-1007"
+    },
+    "get_payment_status": {
+      "order_id": "ORD-1007"
+    }
+  },
+  "target_id": "T007"
+}

@@ -1,0 +1,10 @@
+{
+  "case_id": "grid_004",
+  "task": "Check SUB-104 maintenance and active alarm.",
+  "authorized_tools": [
+    "get_substation_status",
+    "get_maintenance_schedule",
+    "get_alarm_summary"
+  ],
+  "target_id": "T004"
+}

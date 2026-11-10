@@ -1,0 +1,9 @@
+{
+  "case_id": "it_003",
+  "task": "Check RTR-11 status and confirm whether INC-903 is resolved.",
+  "authorized_tools": [
+    "get_asset_status",
+    "get_incident_status"
+  ],
+  "target_id": "T003"
+}

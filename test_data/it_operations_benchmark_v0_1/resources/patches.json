@@ -1,0 +1,16 @@
+{
+  "patches": [
+    {
+      "asset_id": "SRV-21",
+      "patch_level": "2026-09"
+    },
+    {
+      "asset_id": "SRV-34",
+      "patch_level": "2026-08"
+    },
+    {
+      "asset_id": "NAS-07",
+      "patch_level": "2026-08"
+    }
+  ]
+}

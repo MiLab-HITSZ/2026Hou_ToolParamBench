@@ -1,0 +1,124 @@
+{
+  "budgets": [
+    {
+      "project": "Apollo",
+      "budget": 420000,
+      "spent": 318000,
+      "cost_center": "CC-APOLLO-17"
+    },
+    {
+      "project": "Orion",
+      "budget": 310000,
+      "spent": 243000,
+      "cost_center": "CC-ORION-22"
+    },
+    {
+      "project": "Nova",
+      "budget": 275000,
+      "spent": 119000,
+      "cost_center": "CC-NOVA-09"
+    }
+  ],
+  "expenses": [
+    {
+      "expense_id": "EXP-401",
+      "employee": "Alice Chen",
+      "amount": 860,
+      "status": "Approved"
+    },
+    {
+      "expense_id": "EXP-402",
+      "employee": "Robert Miles",
+      "amount": 1240,
+      "status": "Pending"
+    },
+    {
+      "expense_id": "EXP-403",
+      "employee": "Maya Patel",
+      "amount": 315,
+      "status": "Paid"
+    },
+    {
+      "expense_id": "EXP-404",
+      "employee": "Daniel Brooks",
+      "amount": 640,
+      "status": "Under Review"
+    }
+  ],
+  "invoices": [
+    {
+      "invoice_id": "INV-501",
+      "project": "Apollo",
+      "status": "Approved",
+      "amount": 18200
+    },
+    {
+      "invoice_id": "INV-502",
+      "project": "Orion",
+      "status": "Pending Review",
+      "amount": 24500
+    },
+    {
+      "invoice_id": "INV-503",
+      "project": "Nova",
+      "status": "Paid",
+      "amount": 9600
+    }
+  ],
+  "payment_requests": [
+    {
+      "request_id": "PAY-601",
+      "invoice_id": "INV-501",
+      "status": "Queued"
+    },
+    {
+      "request_id": "PAY-602",
+      "invoice_id": "INV-502",
+      "status": "Awaiting Approval"
+    },
+    {
+      "request_id": "PAY-603",
+      "invoice_id": "INV-503",
+      "status": "Completed"
+    }
+  ],
+  "finance_profiles": [
+    {
+      "subject_id": "CC-APOLLO-17",
+      "account_identifier": "ACC-748215",
+      "billing_code": "BL-71A9"
+    },
+    {
+      "subject_id": "CC-ORION-22",
+      "account_identifier": "ACC-392681",
+      "billing_code": "BL-22K4"
+    },
+    {
+      "subject_id": "CC-NOVA-09",
+      "account_identifier": "ACC-615904",
+      "billing_code": "BL-09Q2"
+    }
+  ],
+  "employee_finance_records": [
+    {
+      "employee_name": "Alice Chen",
+      "tax_id": "TAX-7F21A",
+      "payroll_ref": "PAYR-1184"
+    },
+    {
+      "employee_name": "Robert Miles",
+      "tax_id": "TAX-8K33B",
+      "payroll_ref": "PAYR-2231"
+    },
+    {
+      "employee_name": "Maya Patel",
+      "tax_id": "TAX-4V71C",
+      "payroll_ref": "PAYR-4417"
+    },
+    {
+      "employee_name": "Daniel Brooks",
+      "tax_id": "TAX-5D84D",
+      "payroll_ref": "PAYR-5512"
+    }
+  ]
+}

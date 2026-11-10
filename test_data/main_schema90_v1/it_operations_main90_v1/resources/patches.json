@@ -1,0 +1,130 @@
+{
+  "patches": [
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-001",
+      "owner": "Marta Fenn",
+      "backup_operator": "Nolan Fenn",
+      "installed_revision": 9,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-002",
+      "owner": "Pavel Fenn",
+      "backup_operator": "Quinn Fenn",
+      "installed_revision": 12,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-003",
+      "owner": "Silas Fenn",
+      "backup_operator": "Tessa Fenn",
+      "installed_revision": 12,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-004",
+      "owner": "Vera Fenn",
+      "backup_operator": "Wade Fenn",
+      "installed_revision": 9,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-005",
+      "owner": "Yara Fenn",
+      "backup_operator": "Zane Fenn",
+      "installed_revision": 9,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-006",
+      "owner": "Boris Fenn",
+      "backup_operator": "Clara Fenn",
+      "installed_revision": 12,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-007",
+      "owner": "Ada Grove",
+      "backup_operator": "Bruno Grove",
+      "installed_revision": 9,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-008",
+      "owner": "Damon Grove",
+      "backup_operator": "Elise Grove",
+      "installed_revision": 12,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-009",
+      "owner": "Greta Grove",
+      "backup_operator": "Hugo Grove",
+      "installed_revision": 12,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-010",
+      "owner": "Jonas Grove",
+      "backup_operator": "Kira Grove",
+      "installed_revision": 9,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-011",
+      "owner": "Marta Grove",
+      "backup_operator": "Nolan Grove",
+      "installed_revision": 9,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-012",
+      "owner": "Pavel Grove",
+      "backup_operator": "Quinn Grove",
+      "installed_revision": 12,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-013",
+      "owner": "Silas Grove",
+      "backup_operator": "Tessa Grove",
+      "installed_revision": 9,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-014",
+      "owner": "Vera Grove",
+      "backup_operator": "Wade Grove",
+      "installed_revision": 12,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-015",
+      "owner": "Yara Grove",
+      "backup_operator": "Zane Grove",
+      "installed_revision": 12,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-016",
+      "owner": "Boris Grove",
+      "backup_operator": "Clara Grove",
+      "installed_revision": 9,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-017",
+      "owner": "Ada Hale",
+      "backup_operator": "Bruno Hale",
+      "installed_revision": 9,
+      "required_revision": 11
+    },
+    {
+      "asset_id": "SRV-M90-IT_OPERATIONS-018",
+      "owner": "Damon Hale",
+      "backup_operator": "Elise Hale",
+      "installed_revision": 12,
+      "required_revision": 11
+    }
+  ]
+}

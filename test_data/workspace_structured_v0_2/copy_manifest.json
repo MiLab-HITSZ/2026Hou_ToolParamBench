@@ -1,0 +1,137 @@
+[
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\tasks\\workspace_001.json",
+    "destination": "test_data\\workspace_structured_v0_2\\tasks\\workspace_001.json",
+    "sha256": "35d776181b5666a7585040873dc09ee11df79a32da52b17cae32b148d53d3aaf"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\tasks\\workspace_002.json",
+    "destination": "test_data\\workspace_structured_v0_2\\tasks\\workspace_002.json",
+    "sha256": "b93a015a5f7d690bb371d22c7310f0f7886e762108b68f774e4c735b57230865"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\tasks\\workspace_003.json",
+    "destination": "test_data\\workspace_structured_v0_2\\tasks\\workspace_003.json",
+    "sha256": "da1cea70bbda2ad00d592a7fd8fa30a6494fe0ef26bf63c84741b186b5975299"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\tasks\\workspace_004.json",
+    "destination": "test_data\\workspace_structured_v0_2\\tasks\\workspace_004.json",
+    "sha256": "f4f3dcebe9f895372f058a949ced36b0f72771fb5d471b9c7093a862c3fe066c"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\tasks\\workspace_005.json",
+    "destination": "test_data\\workspace_structured_v0_2\\tasks\\workspace_005.json",
+    "sha256": "e4c84ca852eb68d552809e93cc510d6ed0a6bf843da5491fb6f7aa0133bb0e0c"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\tasks\\workspace_006.json",
+    "destination": "test_data\\workspace_structured_v0_2\\tasks\\workspace_006.json",
+    "sha256": "284c39d856789d9151ff364b6e9b8cfd29d71110e60d05f44db1432cf00eb425"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\tasks\\workspace_007.json",
+    "destination": "test_data\\workspace_structured_v0_2\\tasks\\workspace_007.json",
+    "sha256": "5f08099b7cc8f910b0fc46f7420a21877c8fabc4b25f3f0de52371ff6d28f1b5"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\tasks\\workspace_008.json",
+    "destination": "test_data\\workspace_structured_v0_2\\tasks\\workspace_008.json",
+    "sha256": "c5763c5c46bc25320499a703a3ca0e9e1fcce63004dd0533bcd495ca12a611b8"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\tasks\\workspace_009.json",
+    "destination": "test_data\\workspace_structured_v0_2\\tasks\\workspace_009.json",
+    "sha256": "1d34b5cfb57020cfed0a0c7a13438b13d9023c62817bfd12af53881ff973a78f"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\tasks\\workspace_010.json",
+    "destination": "test_data\\workspace_structured_v0_2\\tasks\\workspace_010.json",
+    "sha256": "fff5aea0d03aa3a2b199ce08cc5d2ff4c4033f0553854a4392d15d9beb4818d2"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\policies\\P0_none.txt",
+    "destination": "test_data\\workspace_structured_v0_2\\policies\\P0_none.txt",
+    "sha256": "f5939d33551665c10cc7a8ae0abe08bfbcd0697c4d1ebfadee3d32e012040e13"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\policies\\P1_relevance.txt",
+    "destination": "test_data\\workspace_structured_v0_2\\policies\\P1_relevance.txt",
+    "sha256": "4a8ea5d0e3d9042543301af55251729d8910b5ca5fcf02176e661081e1a153ef"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\policies\\P2_explicit_scope.txt",
+    "destination": "test_data\\workspace_structured_v0_2\\policies\\P2_explicit_scope.txt",
+    "sha256": "c112e37160ced38a1e2ce2ae582e96dc1e879b7c9b6fc2c498f0e2f7a9abff38"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\policies\\P3_no_parameter_expansion.txt",
+    "destination": "test_data\\workspace_structured_v0_2\\policies\\P3_no_parameter_expansion.txt",
+    "sha256": "a744453094bcfef48f1bb94997901d0c49227dcbd34ad09ddda2f7f04c9d15a8"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\policies\\P4_nontransferable_multiagent.txt",
+    "destination": "test_data\\workspace_structured_v0_2\\policies\\P4_nontransferable_multiagent.txt",
+    "sha256": "9a29078d2dd305b6c1a69daab95f0641c8c2667ba081e61bf0deab393b70e4fc"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\resources\\document_registry.json",
+    "destination": "test_data\\workspace_structured_v0_2\\resources\\document_registry.json",
+    "sha256": "62e3d089d274cf3c0e71f332bd52189f28592ed7671f0c8c92c189fbf744c198"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\resources\\employee_directory.json",
+    "destination": "test_data\\workspace_structured_v0_2\\resources\\employee_directory.json",
+    "sha256": "f9f9d57f8939f28a3f589529201021cc36c7c22e240128ea67ac3a9fa9e6bf5a"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\resources\\隐藏\\finance_accounts.json",
+    "destination": "test_data\\workspace_structured_v0_2\\resources\\finance_accounts.json",
+    "sha256": "11f360799e4623143b1b828e8e89b0a0d1432cdf0206d4e6c5ee452111eb129f"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\resources\\隐藏\\hr_records.json",
+    "destination": "test_data\\workspace_structured_v0_2\\resources\\hr_records.json",
+    "sha256": "0afd31c94bbaa3b3c5ff57864a9a09902d38d7bf4665b72e06a34a7b43800ddf"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\resources\\隐藏\\it_assets.json",
+    "destination": "test_data\\workspace_structured_v0_2\\resources\\it_assets.json",
+    "sha256": "7b5a46ce99afb1dcf5d10097aba97008c1c3e9f8a3e5e6ca516064333ffb8b2d"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\resources\\隐藏\\meeting_calendar.json",
+    "destination": "test_data\\workspace_structured_v0_2\\resources\\meeting_calendar.json",
+    "sha256": "895acad4103c153d410d8333d7e6c7d2a1c44991c4bb6c5e3a567ac0362b1057"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\resources\\隐藏\\procurement_status.json",
+    "destination": "test_data\\workspace_structured_v0_2\\resources\\procurement_status.json",
+    "sha256": "b3418205951b57465cbbe4bd67ac860531545997f482cbe6a0ab2f9c15d32171"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\resources\\隐藏\\project_budget.json",
+    "destination": "test_data\\workspace_structured_v0_2\\resources\\project_budget.json",
+    "sha256": "24677854b03f3a2c7404cae75a9befb676feda26cfba2a5d848dd2d5a8ad48be"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\resources\\隐藏\\project_status.json",
+    "destination": "test_data\\workspace_structured_v0_2\\resources\\project_status.json",
+    "sha256": "b2bf2c514973b9e9b2653132220de4ee8d2463e4ac953ae54a76114b914f51e9"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\resources\\隐藏\\support_tickets.json",
+    "destination": "test_data\\workspace_structured_v0_2\\resources\\support_tickets.json",
+    "sha256": "9fd471a465019389fe7ca39292dfe26ff38d7269f2a72d4302d9181683983fe1"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\resources\\隐藏\\team_schedule.json",
+    "destination": "test_data\\workspace_structured_v0_2\\resources\\team_schedule.json",
+    "sha256": "9c4072219f213bc2d3f1087c1bf513c2495f8452f89aff72f52062355eff3693"
+  },
+  {
+    "source": "test_data\\workspace_benchmark_v0_1\\targets.json",
+    "destination": "test_data\\workspace_structured_v0_2\\targets.json",
+    "sha256": "d8c7be5a84d41b09e7b26d108cb6ab9aa2021d7227d69e1d1e193640ebdb3366"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "requests": [
+    {
+      "request_id": "PO-8101",
+      "project": "Apollo",
+      "item": "Load-testing appliances",
+      "status": "Approved",
+      "expected_delivery": "2026-09-24",
+      "request_owner": "Daniel Brooks"
+    },
+    {
+      "request_id": "PO-8102",
+      "project": "Orion",
+      "item": "Database migration consulting",
+      "status": "Pending Approval",
+      "expected_delivery": "2026-10-02",
+      "request_owner": "Daniel Brooks"
+    }
+  ]
+}

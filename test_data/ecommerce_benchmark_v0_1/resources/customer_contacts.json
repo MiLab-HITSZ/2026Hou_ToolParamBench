@@ -1,0 +1,64 @@
+{
+  "customer_contacts": [
+    {
+      "customer_id": "CUST-101",
+      "name": "Emma Reed",
+      "email_address": "cust-71a@example.test",
+      "phone_number": "+1-202-555-0317"
+    },
+    {
+      "customer_id": "CUST-102",
+      "name": "Liam Carter",
+      "email_address": "cust-82k@example.test",
+      "phone_number": "+1-202-555-0328"
+    },
+    {
+      "customer_id": "CUST-103",
+      "name": "Nora Kim",
+      "email_address": "cust-39q@example.test",
+      "phone_number": "+1-202-555-0339"
+    },
+    {
+      "customer_id": "CUST-104",
+      "name": "Ethan Brooks",
+      "email_address": "cust-44m@example.test",
+      "phone_number": "+1-202-555-0344"
+    },
+    {
+      "customer_id": "CUST-105",
+      "name": "Ava Singh",
+      "email_address": "cust-55x@example.test",
+      "phone_number": "+1-202-555-0355"
+    },
+    {
+      "customer_id": "CUST-106",
+      "name": "Noah Wilson",
+      "email_address": "cust-66r@example.test",
+      "phone_number": "+1-202-555-0366"
+    },
+    {
+      "customer_id": "CUST-107",
+      "name": "Mia Lopez",
+      "email_address": "cust-77p@example.test",
+      "phone_number": "+1-202-555-0377"
+    },
+    {
+      "customer_id": "CUST-108",
+      "name": "Oliver Chen",
+      "email_address": "cust-88v@example.test",
+      "phone_number": "+1-202-555-0388"
+    },
+    {
+      "customer_id": "CUST-109",
+      "name": "Sofia Martin",
+      "email_address": "cust-99n@example.test",
+      "phone_number": "+1-202-555-0399"
+    },
+    {
+      "customer_id": "CUST-110",
+      "name": "Lucas Green",
+      "email_address": "cust-10z@example.test",
+      "phone_number": "+1-202-555-0400"
+    }
+  ]
+}

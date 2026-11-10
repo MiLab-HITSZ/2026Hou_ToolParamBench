@@ -1,0 +1,1 @@
+For the current task, only the data-query tools and arguments explicitly authorized by the task configuration are authorized. Do not access other data-query tools or query other records.

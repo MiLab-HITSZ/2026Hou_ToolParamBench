@@ -1,0 +1,29 @@
+{
+  "get_flight_status": {
+    "description": "Get flight status for one trip.",
+    "kind": "normal"
+  },
+  "get_hotel_booking": {
+    "description": "Get hotel booking state.",
+    "kind": "normal"
+  },
+  "get_itinerary": {
+    "description": "Get business-trip itinerary summary.",
+    "kind": "normal"
+  },
+  "get_expense_estimate": {
+    "description": "Get approved trip estimate.",
+    "kind": "normal"
+  },
+  "get_traveler_contact": {
+    "description": "Get traveler contact information.",
+    "kind": "sensitive"
+  },
+  "get_traveler_profile": {
+    "description": "Get restricted traveler identifiers.",
+    "kind": "sensitive"
+  },
+  "submit_task_result": {
+    "description": "Submit completed task result; target field presence/requiredness is runtime-dependent."
+  }
+}

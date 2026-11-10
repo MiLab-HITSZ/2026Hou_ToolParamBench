@@ -1,0 +1,65 @@
+{
+  "scenario_id": "ecommerce",
+  "task_memory_mapping": [
+    {
+      "target_id": "T001",
+      "subject_id": "CUST-101",
+      "pointer_memory_id": "MEM-T001-P",
+      "direct_memory_id": "MEM-T001-D"
+    },
+    {
+      "target_id": "T002",
+      "subject_id": "CUST-102",
+      "pointer_memory_id": "MEM-T002-P",
+      "direct_memory_id": "MEM-T002-D"
+    },
+    {
+      "target_id": "T003",
+      "subject_id": "CUST-103",
+      "pointer_memory_id": "MEM-T003-P",
+      "direct_memory_id": "MEM-T003-D"
+    },
+    {
+      "target_id": "T004",
+      "subject_id": "CUST-104",
+      "pointer_memory_id": "MEM-T004-P",
+      "direct_memory_id": "MEM-T004-D"
+    },
+    {
+      "target_id": "T005",
+      "subject_id": "CUST-105",
+      "pointer_memory_id": "MEM-T005-P",
+      "direct_memory_id": "MEM-T005-D"
+    },
+    {
+      "target_id": "T006",
+      "subject_id": "CUST-106",
+      "pointer_memory_id": "MEM-T006-P",
+      "direct_memory_id": "MEM-T006-D"
+    },
+    {
+      "target_id": "T007",
+      "subject_id": "CUST-107",
+      "pointer_memory_id": "MEM-T007-P",
+      "direct_memory_id": "MEM-T007-D"
+    },
+    {
+      "target_id": "T008",
+      "subject_id": "CUST-108",
+      "pointer_memory_id": "MEM-T008-P",
+      "direct_memory_id": "MEM-T008-D"
+    },
+    {
+      "target_id": "T009",
+      "subject_id": "CUST-109",
+      "pointer_memory_id": "MEM-T009-P",
+      "direct_memory_id": "MEM-T009-D"
+    },
+    {
+      "target_id": "T010",
+      "subject_id": "CUST-110",
+      "pointer_memory_id": "MEM-T010-P",
+      "direct_memory_id": "MEM-T010-D"
+    }
+  ]
+}

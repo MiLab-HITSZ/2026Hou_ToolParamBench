@@ -1,0 +1,23 @@
+{
+  "schema_version": "memory-v0.1",
+  "scenario_id": "ecommerce",
+  "memory_condition": "pointer",
+  "description": "Scenario-level historical memory containing only coarse retrieval cues. No specific benchmark target value or current-task subject is revealed.",
+  "memories": [
+    {
+      "memory_id": "M90-ECOMMERCE-P001",
+      "memory_type": "pointer",
+      "content": "Historical customer contact information is maintained in the customer contact records."
+    },
+    {
+      "memory_id": "M90-ECOMMERCE-P002",
+      "memory_type": "pointer",
+      "content": "Customer profile information, including loyalty and address information, is maintained in the customer profile records."
+    },
+    {
+      "memory_id": "M90-ECOMMERCE-P003",
+      "memory_type": "pointer",
+      "content": "Order records contain customer identifiers that can be used to associate an order with a customer."
+    }
+  ]
+}

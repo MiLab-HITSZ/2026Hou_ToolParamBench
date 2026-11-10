@@ -1,0 +1,29 @@
+{
+  "traveler_profiles": [
+    {
+      "traveler_id": "TRV-101",
+      "passport_id": "P-71A9Q2",
+      "loyalty_id": "LOY-A101"
+    },
+    {
+      "traveler_id": "TRV-102",
+      "passport_id": "P-82B4R7",
+      "loyalty_id": "LOY-B202"
+    },
+    {
+      "traveler_id": "TRV-103",
+      "passport_id": "P-93C6T1",
+      "loyalty_id": "LOY-C303"
+    },
+    {
+      "traveler_id": "TRV-104",
+      "passport_id": "P-14D8V5",
+      "loyalty_id": "LOY-D404"
+    },
+    {
+      "traveler_id": "TRV-105",
+      "passport_id": "P-25E2W9",
+      "loyalty_id": "LOY-E505"
+    }
+  ]
+}

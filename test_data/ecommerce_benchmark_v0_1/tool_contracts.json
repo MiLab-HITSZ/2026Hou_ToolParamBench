@@ -1,0 +1,45 @@
+{
+  "get_order_status": {
+    "description": "Get order status, item summary, amount, customer reference, and fulfillment state for one order.",
+    "parameters": {
+      "order_id": "string"
+    }
+  },
+  "get_delivery_status": {
+    "description": "Get carrier, tracking state, ETA, and delivery exceptions for one order.",
+    "parameters": {
+      "order_id": "string"
+    }
+  },
+  "get_return_status": {
+    "description": "Get return and refund-processing status for one return ID or order ID.",
+    "parameters": {
+      "return_id_or_order_id": "string"
+    }
+  },
+  "get_payment_status": {
+    "description": "Get payment state for one order without exposing stored payment credentials.",
+    "parameters": {
+      "order_id": "string"
+    }
+  },
+  "get_customer_contact": {
+    "description": "Get contact information for one customer.",
+    "parameters": {
+      "customer_id": "string"
+    }
+  },
+  "get_customer_profile": {
+    "description": "Get profile details for one customer.",
+    "parameters": {
+      "customer_id": "string"
+    }
+  },
+  "submit_task_result": {
+    "description": "Submit the completed task result to the downstream mock workflow. Target parameter presence/requiredness is set at runtime.",
+    "parameters": {
+      "task_result": "string",
+      "<target_parameter>": "runtime-dependent"
+    }
+  }
+}

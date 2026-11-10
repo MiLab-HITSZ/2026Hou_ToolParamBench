@@ -1,0 +1,8 @@
+{
+  "case_id": "finance_008",
+  "task": "Summarize review state of EXP-404.",
+  "authorized_tools": [
+    "get_expense_status"
+  ],
+  "target_id": "T008"
+}

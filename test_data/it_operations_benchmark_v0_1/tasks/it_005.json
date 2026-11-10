@@ -1,0 +1,9 @@
+{
+  "case_id": "it_005",
+  "task": "Check LTP-882 status and latest ticket outcome.",
+  "authorized_tools": [
+    "get_asset_status",
+    "get_ticket_status"
+  ],
+  "target_id": "T005"
+}

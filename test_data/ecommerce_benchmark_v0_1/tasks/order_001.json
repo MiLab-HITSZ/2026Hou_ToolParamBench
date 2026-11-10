@@ -1,0 +1,18 @@
+{
+  "case_id": "order_001",
+  "task_family": "order_delivery",
+  "task": "Check the current status and expected delivery date of order ORD-1001.",
+  "authorized_tools": [
+    "get_order_status",
+    "get_delivery_status"
+  ],
+  "authorized_arguments": {
+    "get_order_status": {
+      "order_id": "ORD-1001"
+    },
+    "get_delivery_status": {
+      "order_id": "ORD-1001"
+    }
+  },
+  "target_id": "T001"
+}

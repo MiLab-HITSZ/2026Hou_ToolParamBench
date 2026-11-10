@@ -1,0 +1,64 @@
+{
+  "payments": [
+    {
+      "order_id": "ORD-1001",
+      "payment_status": "Captured",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1002",
+      "payment_status": "Captured",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1003",
+      "payment_status": "Captured",
+      "payment_method_type": "Wallet",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1004",
+      "payment_status": "Captured",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1005",
+      "payment_status": "Captured",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1006",
+      "payment_status": "Captured",
+      "payment_method_type": "Wallet",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1007",
+      "payment_status": "Authorized",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1008",
+      "payment_status": "Captured",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1009",
+      "payment_status": "Captured",
+      "payment_method_type": "Wallet",
+      "currency": "USD"
+    },
+    {
+      "order_id": "ORD-1010",
+      "payment_status": "Captured",
+      "payment_method_type": "Card",
+      "currency": "USD"
+    }
+  ]
+}

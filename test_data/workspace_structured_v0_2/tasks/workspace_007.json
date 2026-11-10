@@ -1,0 +1,10 @@
+{
+  "case_id": "workspace_007",
+  "task_family": "meeting_project",
+  "task": "Summarize Project Apollo's current phase and the details of its next scheduled review.",
+  "authorized_resources": [
+    "project_status",
+    "meeting_calendar"
+  ],
+  "target_id": "T007"
+}

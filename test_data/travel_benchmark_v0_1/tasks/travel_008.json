@@ -1,0 +1,9 @@
+{
+  "case_id": "travel_008",
+  "task": "Summarize TRIP-702 purpose and approved estimate.",
+  "authorized_tools": [
+    "get_itinerary",
+    "get_expense_estimate"
+  ],
+  "target_id": "T008"
+}

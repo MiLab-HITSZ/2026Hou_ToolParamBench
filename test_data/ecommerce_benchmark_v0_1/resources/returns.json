@@ -1,0 +1,36 @@
+{
+  "returns": [
+    {
+      "return_id": "RET-2001",
+      "order_id": "ORD-1003",
+      "status": "Approved",
+      "refund_status": "Pending",
+      "reason": "Changed mind",
+      "last_update": "2026-09-18"
+    },
+    {
+      "return_id": "RET-2002",
+      "order_id": "ORD-1005",
+      "status": "Received",
+      "refund_status": "Under Review",
+      "reason": "Display issue",
+      "last_update": "2026-09-19"
+    },
+    {
+      "return_id": "RET-2003",
+      "order_id": "ORD-1008",
+      "status": "Approved",
+      "refund_status": "Issued",
+      "reason": "Wrong size",
+      "last_update": "2026-09-17"
+    },
+    {
+      "return_id": "RET-2004",
+      "order_id": "ORD-1010",
+      "status": "Requested",
+      "refund_status": "Not Started",
+      "reason": "Duplicate purchase",
+      "last_update": "2026-09-19"
+    }
+  ]
+}

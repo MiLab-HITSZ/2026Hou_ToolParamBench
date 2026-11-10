@@ -1,0 +1,142 @@
+{
+  "profile": "structured",
+  "repeats": 1,
+  "start_repeat": 1,
+  "datasets": [
+    {
+      "data_root": "test_data/main_schema90_v1/finance_admin_main90_v1",
+      "cases": [
+        "main90_finance_admin_001",
+        "main90_finance_admin_002",
+        "main90_finance_admin_003",
+        "main90_finance_admin_004",
+        "main90_finance_admin_005",
+        "main90_finance_admin_006",
+        "main90_finance_admin_007",
+        "main90_finance_admin_008",
+        "main90_finance_admin_009",
+        "main90_finance_admin_010",
+        "main90_finance_admin_011",
+        "main90_finance_admin_012",
+        "main90_finance_admin_013",
+        "main90_finance_admin_014",
+        "main90_finance_admin_015",
+        "main90_finance_admin_016",
+        "main90_finance_admin_017",
+        "main90_finance_admin_018"
+      ]
+    },
+    {
+      "data_root": "test_data/main_schema90_v1/travel_main90_v1",
+      "cases": [
+        "main90_travel_001",
+        "main90_travel_002",
+        "main90_travel_003",
+        "main90_travel_004",
+        "main90_travel_005",
+        "main90_travel_006",
+        "main90_travel_007",
+        "main90_travel_008",
+        "main90_travel_009",
+        "main90_travel_010",
+        "main90_travel_011",
+        "main90_travel_012",
+        "main90_travel_013",
+        "main90_travel_014",
+        "main90_travel_015",
+        "main90_travel_016",
+        "main90_travel_017",
+        "main90_travel_018"
+      ]
+    },
+    {
+      "data_root": "test_data/main_schema90_v1/ecommerce_main90_v1",
+      "cases": [
+        "main90_ecommerce_001",
+        "main90_ecommerce_002",
+        "main90_ecommerce_003",
+        "main90_ecommerce_004",
+        "main90_ecommerce_005",
+        "main90_ecommerce_006",
+        "main90_ecommerce_007",
+        "main90_ecommerce_008",
+        "main90_ecommerce_009",
+        "main90_ecommerce_010",
+        "main90_ecommerce_011",
+        "main90_ecommerce_012",
+        "main90_ecommerce_013",
+        "main90_ecommerce_014",
+        "main90_ecommerce_015",
+        "main90_ecommerce_016",
+        "main90_ecommerce_017",
+        "main90_ecommerce_018"
+      ]
+    },
+    {
+      "data_root": "test_data/main_schema90_v1/it_operations_main90_v1",
+      "cases": [
+        "main90_it_operations_001",
+        "main90_it_operations_002",
+        "main90_it_operations_003",
+        "main90_it_operations_004",
+        "main90_it_operations_005",
+        "main90_it_operations_006",
+        "main90_it_operations_007",
+        "main90_it_operations_008",
+        "main90_it_operations_009",
+        "main90_it_operations_010",
+        "main90_it_operations_011",
+        "main90_it_operations_012",
+        "main90_it_operations_013",
+        "main90_it_operations_014",
+        "main90_it_operations_015",
+        "main90_it_operations_016",
+        "main90_it_operations_017",
+        "main90_it_operations_018"
+      ]
+    },
+    {
+      "data_root": "test_data/main_schema90_v1/power_grid_main90_v1",
+      "cases": [
+        "main90_power_grid_001",
+        "main90_power_grid_002",
+        "main90_power_grid_003",
+        "main90_power_grid_004",
+        "main90_power_grid_005",
+        "main90_power_grid_006",
+        "main90_power_grid_007",
+        "main90_power_grid_008",
+        "main90_power_grid_009",
+        "main90_power_grid_010",
+        "main90_power_grid_011",
+        "main90_power_grid_012",
+        "main90_power_grid_013",
+        "main90_power_grid_014",
+        "main90_power_grid_015",
+        "main90_power_grid_016",
+        "main90_power_grid_017",
+        "main90_power_grid_018"
+      ]
+    }
+  ],
+  "conditions": [
+    {
+      "mode": "single_agent",
+      "condition": "absent",
+      "policy": "P0_none",
+      "memory_mode": null
+    },
+    {
+      "mode": "single_agent",
+      "condition": "optional",
+      "policy": "P0_none",
+      "memory_mode": null
+    },
+    {
+      "mode": "single_agent",
+      "condition": "required",
+      "policy": "P0_none",
+      "memory_mode": null
+    }
+  ]
+}
